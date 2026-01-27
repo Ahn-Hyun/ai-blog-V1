@@ -1,0 +1,62 @@
+---
+title: "MCP Server Quickstart"
+description: "A fast overview of what an MCP server is and the minimal setup flow."
+pubDate: 2026-01-26
+updatedDate: 2026-01-26
+category: ["ai-mcp"]
+tags: ["AI"]
+draft: false
+heroImage:
+  src: "/images/posts/2026-01-26-mcp-quickstart/hero.jpg"
+  alt: "MCP server quickstart diagram"
+seo:
+  canonical: "https://shipwrite.com/blog/2026-01-26-mcp-quickstart"
+  ogTitle: "MCP Server Quickstart"
+  ogDescription: "How to quickly set up an MCP server with Tools, Resources, and Prompts."
+---
+
+## What is an MCP server?
+
+An MCP (Model Context Protocol) server is a middle layer that provides a **consistent interface**
+for LLMs to call external resources and tools.
+
+## Minimal setup flow
+
+1. **Tool design**: Define input and output schemas.
+2. **Resource design**: Define access to files, databases, and HTTP resources.
+3. **Prompt design**: Build safe system prompt templates.
+4. **Server runtime**: Add request routing and observability (logs/metrics).
+
+## Operational tips
+
+- Monitor tool call failure rates and latency.
+- Version prompts explicitly.
+- Run regression tests before changing models.
+
+## Checklist
+
+- Are tool input/output schemas documented?
+- Is sensitive data prevented from leaking into prompts?
+- Are retry/timeout policies defined for failures?
+- Are minimal audit logs retained?
+
+## Recommended structure
+
+```
+server/
+  tools/
+  resources/
+  prompts/
+  middleware/
+  telemetry/
+```
+
+Separating Tools/Resources/Prompts and centralizing logging/error handling in middleware makes
+operations easier.
+
+Handle authentication and authorization centrally so tool implementations do not repeat security
+logic.
+
+Set input/output size limits and rate limits on all calls to prevent cost spikes or abuse.
+
+This post is a quickstart overview that will serve as the basis for a deeper tutorial.
