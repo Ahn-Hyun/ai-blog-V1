@@ -8,6 +8,9 @@ import Header from '../components/Header.astro';
 type Props = CollectionEntry<'blog'>['data'];
 
 const { title, description, pubDate, updatedDate, heroImage, seo } = Astro.props;
+const siteBase = Astro.site ? new URL(Astro.site).toString() : '';
+const canonicalUrl = seo?.canonical ? new URL(seo.canonical, Astro.site).toString() : undefined;
+const canonical = canonicalUrl && siteBase && canonicalUrl.startsWith(siteBase) ? canonicalUrl : undefined;
 ---
 
 <html lang="en">
@@ -16,7 +19,7 @@ const { title, description, pubDate, updatedDate, heroImage, seo } = Astro.props
 			title={seo?.ogTitle ?? title}
 			description={seo?.ogDescription ?? description}
 			image={heroImage?.src}
-			canonical={seo?.canonical}
+			canonical={canonical}
 			ogTitle={seo?.ogTitle}
 			ogDescription={seo?.ogDescription}
 		/>

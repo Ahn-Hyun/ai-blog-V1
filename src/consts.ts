@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = 'Shipwrite';
 export const SITE_DESCRIPTION =
-	'Shipwrite documents practical AI, RAG, agent, and infra workflows with hands-on notes.';
+	'Shipwrite delivers curated global news, trends, and concise analysis updated daily.';
