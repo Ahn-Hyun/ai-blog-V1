@@ -3,6 +3,7 @@ import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
+import ViewCounter from '../../components/ViewCounter.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 import { getAllTags, getPublishedPosts } from '../../lib/blog';
 
@@ -133,9 +134,25 @@ const tags = getAllTags(posts);
 				gap: 0.5em;
 				flex-wrap: wrap;
 			}
-			.meta span {
+			.meta .tag {
 				font-size: 0.85em;
 				color: rgb(var(--gray));
+			}
+			.meta .view-count {
+				display: inline-flex;
+				align-items: baseline;
+				gap: 0.3em;
+				font-size: 0.85em;
+				color: rgb(var(--gray));
+			}
+			.meta .view-label {
+				text-transform: uppercase;
+				letter-spacing: 0.04em;
+				font-size: 0.75em;
+			}
+			.meta .view-value {
+				color: rgb(var(--gray-dark));
+				font-weight: 600;
 			}
 			.intro {
 				margin-bottom: 2em;
@@ -215,8 +232,9 @@ const tags = getAllTags(posts);
 										<FormattedDate date={post.data.pubDate} />
 									</p>
 									<div class="meta">
+										<ViewCounter slug={post.id} increment={false} />
 										{post.data.tags.map((tagItem) => (
-											<span>#{tagItem}</span>
+											<span class="tag">#{tagItem}</span>
 										))}
 									</div>
 								</a>

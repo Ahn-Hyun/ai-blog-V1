@@ -1,6 +1,7 @@
 ---
 import PageLayout from '../../layouts/Page.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
+import ViewCounter from '../../components/ViewCounter.astro';
 import { getAllTags, getPublishedPosts, getPostsByTag } from '../../lib/blog';
 
 export async function getStaticPaths() {
@@ -81,8 +82,9 @@ const filtered = getPostsByTag(posts, tag);
 						<FormattedDate date={post.data.pubDate} />
 					</p>
 					<div class="meta">
+						<ViewCounter slug={post.id} increment={false} />
 						{post.data.tags.map((tagItem) => (
-							<span>#{tagItem}</span>
+							<span class="tag">#{tagItem}</span>
 						))}
 					</div>
 				</a>
@@ -206,9 +208,25 @@ const filtered = getPostsByTag(posts, tag);
 			gap: 0.5em;
 			flex-wrap: wrap;
 		}
-		.meta span {
+		.meta .tag {
 			font-size: 0.85em;
 			color: rgb(var(--gray));
+		}
+		.meta .view-count {
+			display: inline-flex;
+			align-items: baseline;
+			gap: 0.3em;
+			font-size: 0.85em;
+			color: rgb(var(--gray));
+		}
+		.meta .view-label {
+			text-transform: uppercase;
+			letter-spacing: 0.04em;
+			font-size: 0.75em;
+		}
+		.meta .view-value {
+			color: rgb(var(--gray-dark));
+			font-weight: 600;
 		}
 		@media (max-width: 720px) {
 			.post-grid {
