@@ -59,8 +59,8 @@ for (const file of posts) {
 		hasError = true;
 	}
 
-	if (!body.includes('## References')) {
-		console.error(`[FAIL] ${file} - missing References section`);
+	if (!Object.prototype.hasOwnProperty.call(data, 'references')) {
+		console.error(`[FAIL] ${file} - missing frontmatter references field`);
 		hasError = true;
 	}
 }

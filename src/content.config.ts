@@ -11,6 +11,7 @@ const blog = defineCollection({
 			updatedDate: z.coerce.date().optional(),
 			category: z.array(z.enum(['stocks', 'real-estate'])).length(1),
 			tags: z.array(z.string()).default([]),
+			references: z.array(z.string().url()).default([]),
 			draft: z.boolean().optional().default(false),
 			heroImage: z
 				.object({
