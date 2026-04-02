@@ -10,12 +10,12 @@ export const getPublishedPosts = async (): Promise<BlogPost[]> => {
 
 export const getAllCategories = (posts: BlogPost[]) => {
 	const categories = posts.flatMap((post) => post.data.category ?? []);
-	return [...new Set(categories)].sort((a, b) => a.localeCompare(b, 'ko'));
+	return [...new Set(categories)].sort((a, b) => a.localeCompare(b, 'en'));
 };
 
 export const getAllTags = (posts: BlogPost[]) => {
 	const tags = posts.flatMap((post) => post.data.tags ?? []);
-	return [...new Set(tags)].sort((a, b) => a.localeCompare(b, 'ko'));
+	return [...new Set(tags)].sort((a, b) => a.localeCompare(b, 'en'));
 };
 
 export const getPostsByCategory = (posts: BlogPost[], category: string) =>

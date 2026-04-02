@@ -1,6 +1,7 @@
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
 
+const ALLOWED_CATEGORIES = new Set(['stocks', 'real-estate']);
 const MIN_BODY_LENGTH = 1200;
 
 const contentDir = path.join(process.cwd(), 'src', 'content', 'blog');
@@ -18,6 +19,11 @@ const parseFrontmatter = (raw: string) => {
 	return { data, body: raw.slice(match[0].length).trim() };
 };
 
+const parseListField = (value: string | undefined) => {
+	if (!value) return [];
+	return [...value.matchAll(/"([^"]+)"/g)].map((match) => match[1]);
+};
+
 const files = await fs.readdir(contentDir);
 const posts = files.filter((file) => file.endsWith('.md') || file.endsWith('.mdx'));
 
@@ -33,17 +39,28 @@ for (const file of posts) {
 	}
 
 	if (!data.title) {
-		console.error(`[FAIL] ${file} - title 누락`);
+		console.error(`[FAIL] ${file} - missing title`);
 		hasError = true;
 	}
 
 	if (!data.description) {
-		console.error(`[FAIL] ${file} - description 누락`);
+		console.error(`[FAIL] ${file} - missing description`);
+		hasError = true;
+	}
+
+	const categories = parseListField(data.category);
+	if (categories.length !== 1 || !ALLOWED_CATEGORIES.has(categories[0])) {
+		console.error(`[FAIL] ${file} - category must be exactly one of: stocks, real-estate`);
 		hasError = true;
 	}
 
 	if (body.length < MIN_BODY_LENGTH) {
-		console.error(`[FAIL] ${file} - 본문 길이 부족 (${body.length}/${MIN_BODY_LENGTH})`);
+		console.error(`[FAIL] ${file} - body too short (${body.length}/${MIN_BODY_LENGTH})`);
+		hasError = true;
+	}
+
+	if (!body.includes('## References')) {
+		console.error(`[FAIL] ${file} - missing References section`);
 		hasError = true;
 	}
 }
@@ -52,4 +69,4 @@ if (hasError) {
 	process.exit(1);
 }
 
-console.log('품질 게이트 통과');
+console.log('Quality gate passed');

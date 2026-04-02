@@ -6,7 +6,8 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import { getPublishedPosts } from '../lib/blog';
 
 const posts = await getPublishedPosts();
-const latestPosts = posts.slice(0, 6);
+const stockPosts = posts.filter((post) => post.data.category.includes('stocks')).slice(0, 3);
+const realEstatePosts = posts.filter((post) => post.data.category.includes('real-estate')).slice(0, 3);
 ---
 
 <!doctype html>
@@ -15,76 +16,76 @@ const latestPosts = posts.slice(0, 6);
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
 			main {
-				max-width: 720px;
+				max-width: 860px;
 			}
 			.intro {
-				margin-bottom: 3.5em;
+				margin-bottom: 3em;
 			}
 			.intro h1 {
-				margin-bottom: 0.4em;
+				margin-bottom: 0.5em;
+				line-height: 1.1;
 			}
 			.intro p {
 				color: rgb(var(--gray));
 				font-size: 1.05em;
-				line-height: 1.6;
-				max-width: 600px;
+				line-height: 1.65;
 			}
-			.section-title {
-				font-size: 1.5em;
-				font-style: italic;
-				margin-bottom: 1.8em;
-				color: rgb(var(--gray-dark));
+			.category-grid {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+				gap: 1.25rem;
+			}
+			.category-card {
+				padding: 1.2rem;
+				border: 1px solid rgba(var(--border), 0.9);
+				border-radius: 18px;
+				background: rgba(var(--surface), 1);
+			}
+			.category-card h2 {
+				margin: 0 0 0.5rem;
+			}
+			.category-card p {
+				margin: 0;
+				color: rgb(var(--gray));
+				line-height: 1.55;
+			}
+			.posts-section {
+				margin-top: 3em;
+			}
+			.posts-section h2 {
+				margin-bottom: 1rem;
 			}
 			.posts-list {
 				list-style: none;
 				padding: 0;
-				margin: 0 0 2.5em 0;
+				margin: 0;
 			}
 			.post-item {
-				margin-bottom: 2.5em;
+				padding: 1rem 0;
+				border-bottom: 1px solid rgba(var(--border), 0.7);
+			}
+			.post-item:last-child {
+				border-bottom: none;
 			}
 			.post-item a {
 				text-decoration: none;
 				color: inherit;
 			}
 			.post-item h3 {
-				margin: 0 0 0.3em 0;
-				color: rgb(var(--black));
-				font-size: 1.35em;
+				margin: 0 0 0.35rem;
+				font-size: 1.2rem;
 			}
 			.post-item h3:hover {
 				color: var(--accent);
 			}
-			.post-date {
+			.post-date,
+			.empty-state {
 				color: rgb(var(--gray));
-				font-size: 0.9em;
-				margin-bottom: 0.5em;
 			}
 			.post-description {
+				margin: 0.35rem 0 0;
 				color: rgb(var(--gray));
-				font-size: 1em;
-				line-height: 1.5;
-				margin: 0;
-			}
-			.view-all {
-				margin-top: 1.5em;
-			}
-			@media (max-width: 720px) {
-				main {
-					max-width: 100%;
-				}
-				.intro {
-					margin-bottom: 2em;
-				}
-				.section-title {
-					margin-bottom: 1.2em;
-				}
-				.posts-list {
-					margin: 0 0 1.5em 0;
-				}
-				.post-item {
-					margin-bottom: 1.6em;
-				}
+				line-height: 1.55;
 			}
 		</style>
 	</head>
@@ -92,27 +93,65 @@ const latestPosts = posts.slice(0, 6);
 		<Header />
 		<main>
 			<section class="intro">
-				<p>Curated global news, trends, and issues updated daily.</p>
+				<h1>Daily market impact briefings for stocks and real estate.</h1>
+				<p>
+					Every morning in US time, Shipwrite reviews the previous day's macro, policy, social,
+					economic, and diplomatic events, then publishes two focused analyses: one for US
+					stocks and one for US real estate.
+				</p>
 			</section>
 
-			<section>
-				<h2 class="section-title">Writing</h2>
+			<section class="category-grid">
+				<article class="category-card">
+					<h2>Stocks</h2>
+					<p>Sector exposure, policy transmission, earnings sensitivity, and second-order market impact.</p>
+				</article>
+				<article class="category-card">
+					<h2>Real Estate</h2>
+					<p>Mortgage, affordability, inventory, construction, refinancing, and regional spillover analysis.</p>
+				</article>
+			</section>
+
+			<section class="posts-section">
+				<h2>Latest Stocks</h2>
 				<ul class="posts-list">
-					{latestPosts.slice(0, 3).map((post) => (
-						<li class="post-item">
-							<a href={`/blog/${post.id}/`}>
-								<h3>{post.data.title}</h3>
-							</a>
-							<div class="post-date">
-								{post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
-							</div>
-							<p class="post-description">{post.data.description}</p>
-						</li>
-					))}
+					{stockPosts.length ? (
+						stockPosts.map((post) => (
+							<li class="post-item">
+								<a href={`/blog/${post.id}/`}>
+									<h3>{post.data.title}</h3>
+								</a>
+								<div class="post-date">
+									{post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+								</div>
+								<p class="post-description">{post.data.description}</p>
+							</li>
+						))
+					) : (
+						<li class="empty-state">No stock analyses published yet.</li>
+					)}
 				</ul>
-				<div class="view-all">
-					<a class="button primary" href="/blog">View All Posts</a>
-				</div>
+			</section>
+
+			<section class="posts-section">
+				<h2>Latest Real Estate</h2>
+				<ul class="posts-list">
+					{realEstatePosts.length ? (
+						realEstatePosts.map((post) => (
+							<li class="post-item">
+								<a href={`/blog/${post.id}/`}>
+									<h3>{post.data.title}</h3>
+								</a>
+								<div class="post-date">
+									{post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+								</div>
+								<p class="post-description">{post.data.description}</p>
+							</li>
+						))
+					) : (
+						<li class="empty-state">No real-estate analyses published yet.</li>
+					)}
+				</ul>
 			</section>
 		</main>
 		<Footer />

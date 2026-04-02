@@ -1,5 +1,6 @@
 {
   "topics": [
+<<<<<<< Updated upstream
     "KR:asml",
     "KR:\ub274\uc9c4\uc2a4",
     "KR:\ub85c\ub80c\ucd08 \ubb34\uc138\ud2f0",
@@ -536,5 +537,26 @@
     "2026-02-26-snow-removal-logistics-the-2026-interstate-blizzard-response",
     "2026-02-26-vp-jd-vance-visits-plover-wi-economy-and-manufacturing",
     "2026-02-26-will-zalatoris-debuts-at-cognizant-classic-amid-health-concerns"
+=======
+    "2026-03-30:US:fed-holds-rates-one-cut-repricing",
+    "2026-03-30:US:iran-war-oil-supply-disruption",
+    "2026-03-31:US:stagflation",
+    "2026-03-31:US:treasury-yield-mortgage-rates",
+    "2026-04-01:US:oil-above-100-middle-east-conflict",
+    "2026-04-01:US:treasury-yields-rise-inflation-repricing"
+  ],
+  "slugs": [
+    "2026-03-30-fed-holds-rates-one-cut-repricing-reshapes-real-estate",
+    "2026-03-30-iran-war-oil-supply-disruption-and-the-sp-500-outlook",
+    "2026-03-31-stagflation-in-2026-how-it-is-repricing-asset-classes",
+    "2026-03-31-treasury-yield-mortgage-rates-and-the-q1-2026-stagflation-trap",
+    "2026-04-01-oil-above-100-middle-east-conflict-reshapes-markets",
+    "2026-04-01-treasury-yields-rise-on-inflation-repricing-in-2026"
+  ],
+  "daily_impact_runs": [
+    "2026-03-29",
+    "2026-03-30",
+    "2026-03-31"
+>>>>>>> Stashed changes
   ]
 }

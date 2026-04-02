@@ -16,8 +16,8 @@ const { category } = Astro.props;
 const filtered = getPostsByCategory(posts, category);
 ---
 
-<PageLayout title={`Category: ${category}`} description={`Posts in ${category}`}>
-	<h1>Category: {category}</h1>
+<PageLayout title={`${category} archive`} description={`Posts in the ${category} archive`}>
+	<h1>{category} archive</h1>
 	<ul>
 		{filtered.map((post) => (
 			<li>
