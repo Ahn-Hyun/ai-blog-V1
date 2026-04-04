@@ -1,13 +1,5 @@
 {
-  "topics": [
-    "2026-04-01:US:stagflation",
-    "2026-04-01:US:stagflation real estate"
-  ],
-  "slugs": [
-    "2026-04-01-stagflation-in-2026-what-the-jobs-shock-means-for-investors",
-    "2026-04-01-stagflation-real-estate-how-2026-job-losses-reshape-markets"
-  ],
-  "daily_impact_runs": [
-    "2026-03-31"
-  ]
+  "topics": [],
+  "slugs": [],
+  "daily_impact_runs": []
 }

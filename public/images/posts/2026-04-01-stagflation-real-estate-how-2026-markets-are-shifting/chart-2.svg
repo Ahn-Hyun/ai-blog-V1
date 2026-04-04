@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-label="Bar chart showing traders pricing in slightly over two rate cuts for the remainder of 2026 compared to FOMC members signaling only one cut.">
+<rect width="100%" height="100%" fill="#ffffff" />
+<text x="90" y="46" font-size="28" font-family="Arial, sans-serif" fill="#111827">2026 Rate Cut Expectations: Market vs. FOMC</text>
+<line x1="90" y1="430" x2="950" y2="430" stroke="#9ca3af" stroke-width="2"/>
+<line x1="90" y1="90" x2="90" y2="430" stroke="#9ca3af" stroke-width="2"/>
+<line x1="90" y1="430.00" x2="950" y2="430.00" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="435.00" text-anchor="end" font-size="13" font-family="Arial, sans-serif" fill="#6b7280">1 rate cuts</text>
+<line x1="90" y1="345.00" x2="950" y2="345.00" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="350.00" text-anchor="end" font-size="13" font-family="Arial, sans-serif" fill="#6b7280">1.25 rate cuts</text>
+<line x1="90" y1="260.00" x2="950" y2="260.00" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="265.00" text-anchor="end" font-size="13" font-family="Arial, sans-serif" fill="#6b7280">1.5 rate cuts</text>
+<line x1="90" y1="175.00" x2="950" y2="175.00" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="180.00" text-anchor="end" font-size="13" font-family="Arial, sans-serif" fill="#6b7280">1.75 rate cuts</text>
+<line x1="90" y1="90.00" x2="950" y2="90.00" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="95.00" text-anchor="end" font-size="13" font-family="Arial, sans-serif" fill="#6b7280">2 rate cuts</text>
+<rect x="176.00" y="90.00" width="258.00" height="340.00" fill="#2563eb" rx="4"/>
+<text x="305.00" y="458" text-anchor="middle" font-size="13" font-family="Arial, sans-serif" fill="#374151">Market Pricing (Traders)</text>
+<rect x="606.00" y="430.00" width="258.00" height="0.00" fill="#2563eb" rx="4"/>
+<text x="735.00" y="458" text-anchor="middle" font-size="13" font-family="Arial, sans-serif" fill="#374151">FOMC Signal</text>
+</svg>
