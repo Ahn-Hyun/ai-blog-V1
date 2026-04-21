@@ -27,6 +27,7 @@ const {
 	updatedDate,
 	heroImage,
 	seo,
+	author = 'Shipwrite Editorial Team',
 	viewSlug,
 	headings = [],
 	references = [],
@@ -112,10 +113,27 @@ const canonical = canonicalUrl && siteBase && canonicalUrl.startsWith(siteBase) 
 				color: rgb(var(--gray-dark));
 				font-weight: 600;
 			}
-			.last-updated-on {
-				font-style: italic;
-			}
-		</style>
+		.last-updated-on {
+			font-style: italic;
+		}
+		.author-byline {
+			font-size: 0.9em;
+			color: rgb(var(--gray));
+			margin-top: 0.25em;
+		}
+		.disclaimer {
+			margin-top: 3em;
+			padding: 1em 1.25em;
+			border-left: 3px solid rgba(var(--border), 0.8);
+			background: rgba(var(--gray-light), 0.3);
+			font-size: 0.82em;
+			color: rgb(var(--gray));
+			line-height: 1.6;
+		}
+		.disclaimer strong {
+			color: rgb(var(--gray-dark));
+		}
+	</style>
 	</head>
 
 	<body>
@@ -144,10 +162,14 @@ const canonical = canonicalUrl && siteBase && canonicalUrl.startsWith(siteBase) 
 							}
 						</div>
 						<h1>{title}</h1>
+						<p class="author-byline">By {author}</p>
 						<hr />
 					</div>
-					<slot />
-					<References references={references} />
+				<slot />
+				<div class="disclaimer">
+					<strong>Disclaimer:</strong> This analysis is provided for informational purposes only and does not constitute investment, financial, real estate, or legal advice. The content reflects the views of the Shipwrite editorial team based on publicly available information and is not a recommendation to buy, sell, or hold any security or asset. Past performance is not indicative of future results. Always consult a licensed financial advisor before making investment decisions.
+				</div>
+				<References references={references} />
 				</div>
 			</article>
 		</main>

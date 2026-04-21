@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-label="Bar chart showing January 2026 Core PCE at 3.1%, the Fed funds rate range between 3.5% and 3.75%, and February unemployment at 4.4%.">
+<rect width="100%" height="100%" fill="#ffffff" />
+<text x="90" y="46" font-size="28" font-family="Arial, sans-serif" fill="#111827">Key US Macroeconomic Rates (Early 2026)</text>
+<line x1="90" y1="430" x2="950" y2="430" stroke="#9ca3af" stroke-width="2"/>
+<line x1="90" y1="90" x2="90" y2="430" stroke="#9ca3af" stroke-width="2"/>
+<line x1="90" y1="430.00" x2="950" y2="430.00" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="435.00" text-anchor="end" font-size="13" font-family="Arial, sans-serif" fill="#6b7280">3.1 %</text>
+<line x1="90" y1="345.00" x2="950" y2="345.00" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="350.00" text-anchor="end" font-size="13" font-family="Arial, sans-serif" fill="#6b7280">3.43 %</text>
+<line x1="90" y1="260.00" x2="950" y2="260.00" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="265.00" text-anchor="end" font-size="13" font-family="Arial, sans-serif" fill="#6b7280">3.75 %</text>
+<line x1="90" y1="175.00" x2="950" y2="175.00" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="180.00" text-anchor="end" font-size="13" font-family="Arial, sans-serif" fill="#6b7280">4.08 %</text>
+<line x1="90" y1="90.00" x2="950" y2="90.00" stroke="#e5e7eb" stroke-width="1"/>
+<text x="78" y="95.00" text-anchor="end" font-size="13" font-family="Arial, sans-serif" fill="#6b7280">4.4 %</text>
+<rect x="133.00" y="430.00" width="129.00" height="0.00" fill="#2563eb" rx="4"/>
+<text x="197.50" y="458" text-anchor="middle" font-size="13" font-family="Arial, sans-serif" fill="#374151">Core PCE (Jan)</text>
+<rect x="348.00" y="325.38" width="129.00" height="104.62" fill="#2563eb" rx="4"/>
+<text x="412.50" y="458" text-anchor="middle" font-size="13" font-family="Arial, sans-serif" fill="#374151">Fed Funds (Lower)</text>
+<rect x="563.00" y="260.00" width="129.00" height="170.00" fill="#2563eb" rx="4"/>
+<text x="627.50" y="458" text-anchor="middle" font-size="13" font-family="Arial, sans-serif" fill="#374151">Fed Funds (Upper)</text>
+<rect x="778.00" y="90.00" width="129.00" height="340.00" fill="#2563eb" rx="4"/>
+<text x="842.50" y="458" text-anchor="middle" font-size="13" font-family="Arial, sans-serif" fill="#374151">Unemployment (Feb)</text>
+</svg>
