@@ -1,24 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-label="Bar chart showing January 2026 Core PCE at 3.1%, the Fed funds rate range between 3.5% and 3.75%, and February unemployment at 4.4%.">
-<rect width="100%" height="100%" fill="#ffffff" />
-<text x="90" y="46" font-size="28" font-family="Arial, sans-serif" fill="#111827">Key US Macroeconomic Rates (Early 2026)</text>
-<line x1="90" y1="430" x2="950" y2="430" stroke="#9ca3af" stroke-width="2"/>
-<line x1="90" y1="90" x2="90" y2="430" stroke="#9ca3af" stroke-width="2"/>
-<line x1="90" y1="430.00" x2="950" y2="430.00" stroke="#e5e7eb" stroke-width="1"/>
-<text x="78" y="435.00" text-anchor="end" font-size="13" font-family="Arial, sans-serif" fill="#6b7280">3.1 %</text>
-<line x1="90" y1="345.00" x2="950" y2="345.00" stroke="#e5e7eb" stroke-width="1"/>
-<text x="78" y="350.00" text-anchor="end" font-size="13" font-family="Arial, sans-serif" fill="#6b7280">3.43 %</text>
-<line x1="90" y1="260.00" x2="950" y2="260.00" stroke="#e5e7eb" stroke-width="1"/>
-<text x="78" y="265.00" text-anchor="end" font-size="13" font-family="Arial, sans-serif" fill="#6b7280">3.75 %</text>
-<line x1="90" y1="175.00" x2="950" y2="175.00" stroke="#e5e7eb" stroke-width="1"/>
-<text x="78" y="180.00" text-anchor="end" font-size="13" font-family="Arial, sans-serif" fill="#6b7280">4.08 %</text>
-<line x1="90" y1="90.00" x2="950" y2="90.00" stroke="#e5e7eb" stroke-width="1"/>
-<text x="78" y="95.00" text-anchor="end" font-size="13" font-family="Arial, sans-serif" fill="#6b7280">4.4 %</text>
-<rect x="133.00" y="430.00" width="129.00" height="0.00" fill="#2563eb" rx="4"/>
-<text x="197.50" y="458" text-anchor="middle" font-size="13" font-family="Arial, sans-serif" fill="#374151">Core PCE (Jan)</text>
-<rect x="348.00" y="325.38" width="129.00" height="104.62" fill="#2563eb" rx="4"/>
-<text x="412.50" y="458" text-anchor="middle" font-size="13" font-family="Arial, sans-serif" fill="#374151">Fed Funds (Lower)</text>
-<rect x="563.00" y="260.00" width="129.00" height="170.00" fill="#2563eb" rx="4"/>
-<text x="627.50" y="458" text-anchor="middle" font-size="13" font-family="Arial, sans-serif" fill="#374151">Fed Funds (Upper)</text>
-<rect x="778.00" y="90.00" width="129.00" height="340.00" fill="#2563eb" rx="4"/>
-<text x="842.50" y="458" text-anchor="middle" font-size="13" font-family="Arial, sans-serif" fill="#374151">Unemployment (Feb)</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="580" viewBox="0 0 1000 580" role="img" aria-label="Bar chart showing January 2026 Core PCE at 3.1%, the Fed funds rate range between 3.5% and 3.75%, and February unemployment at 4.4%.">
+<rect width="100%" height="100%" fill="#f8fafc" rx="10"/>
+<text x="110" y="44" font-size="20" font-weight="700" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#0f172a">Key U.S. Macroeconomic Rates (Early 2026)</text>
+<text x="110" y="68" font-size="13" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#64748b">%</text>
+<line x1="110" y1="100" x2="110" y2="480" stroke="#cbd5e1" stroke-width="1.5"/>
+<line x1="110" y1="480" x2="960" y2="480" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="102" y="484.00" text-anchor="end" font-size="12" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#94a3b8">0</text>
+<line x1="110" y1="396.67" x2="960" y2="396.67" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="102" y="400.67" text-anchor="end" font-size="12" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#94a3b8">1.1</text>
+<line x1="110" y1="313.33" x2="960" y2="313.33" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="102" y="317.33" text-anchor="end" font-size="12" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#94a3b8">2.2</text>
+<line x1="110" y1="230.00" x2="960" y2="230.00" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="102" y="234.00" text-anchor="end" font-size="12" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#94a3b8">3.3</text>
+<line x1="110" y1="146.67" x2="960" y2="146.67" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="102" y="150.67" text-anchor="end" font-size="12" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#94a3b8">4.4</text>
+<rect x="157.81" y="245.15" width="116.88" height="234.85" fill="#1d4ed8" rx="5" opacity="0.88"/>
+<text x="216.25" y="236.15" text-anchor="middle" font-size="13" font-weight="700" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#1d4ed8">3.1</text>
+<text x="216.25" y="506" text-anchor="middle" font-size="13" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#475569">Core PCE (Jan)</text>
+<rect x="370.31" y="214.85" width="116.88" height="265.15" fill="#0891b2" rx="5" opacity="0.88"/>
+<text x="428.75" y="205.85" text-anchor="middle" font-size="13" font-weight="700" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#0891b2">3.5</text>
+<text x="428.75" y="506" text-anchor="middle" font-size="13" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#475569">Fed Funds (Lower)</text>
+<rect x="582.81" y="195.91" width="116.88" height="284.09" fill="#059669" rx="5" opacity="0.88"/>
+<text x="641.25" y="186.91" text-anchor="middle" font-size="13" font-weight="700" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#059669">3.75</text>
+<text x="641.25" y="506" text-anchor="middle" font-size="13" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#475569">Fed Funds (Upper)</text>
+<rect x="795.31" y="146.67" width="116.88" height="333.33" fill="#d97706" rx="5" opacity="0.88"/>
+<text x="853.75" y="137.67" text-anchor="middle" font-size="13" font-weight="700" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#d97706">4.4</text>
+<text x="853.75" y="506" text-anchor="middle" font-size="13" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#475569">Unemployment (Feb)</text>
 </svg>
