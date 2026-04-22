@@ -1,6 +1,14 @@
 {
-  "topics": [],
-  "slugs": [],
-  "daily_impact_runs": [],
+  "topics": [
+    "2026-04-21:US:mbs stress test",
+    "2026-04-21:US:zero labor growth"
+  ],
+  "slugs": [
+    "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
+    "2026-04-21-zero-labor-growth-ai-and-productivity-in-corporate-strategy"
+  ],
+  "daily_impact_runs": [
+    "2026-04-20"
+  ],
   "weekly_major_runs": []
 }
