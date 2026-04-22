@@ -33,14 +33,26 @@ const categories = getAllCategories(posts);
 				border-radius: 999px;
 				border: 1px solid rgba(var(--border), 0.9);
 				background: rgba(var(--surface), 1);
-				text-decoration: none;
 				color: rgb(var(--gray-dark));
+				font-size: inherit;
+				font-family: inherit;
 				font-weight: 600;
+				cursor: pointer;
 			}
 			.category-pill:hover {
 				border-color: rgba(37, 99, 235, 0.3);
 				box-shadow: var(--box-shadow);
 				color: rgb(var(--black));
+			}
+			.category-pill.active {
+				background: rgb(37, 99, 235);
+				border-color: rgb(37, 99, 235);
+				color: #fff;
+			}
+			.category-pill.active:hover {
+				background: rgb(29, 78, 216);
+				border-color: rgb(29, 78, 216);
+				color: #fff;
 			}
 			.post-grid {
 				display: grid;
@@ -125,18 +137,18 @@ const categories = getAllCategories(posts);
 					Exactly two categories remain in the archive: stocks and real-estate. Each post is intended
 					to trace how the previous day's events may flow into these markets.
 				</p>
-				<div class="category-filter">
-					<a class="category-pill" href="/blog">All ({posts.length})</a>
-					{categories.map((category) => (
-						<a class="category-pill" href={`/category/${category}`}>{category}</a>
-					))}
-				</div>
+			<div class="category-filter">
+				<button class="category-pill active" data-filter="all">All ({posts.length})</button>
+				{categories.map((category) => (
+					<button class="category-pill" data-filter={category}>{category}</button>
+				))}
+			</div>
 			</section>
 			<section>
 				<ul class="post-grid">
-					{posts.map((post) => (
-						<li>
-							<a href={`/blog/${post.id}/`}>
+			{posts.map((post) => (
+					<li data-category={post.data.category[0]}>
+						<a href={`/blog/${post.id}/`}>
 								{post.data.heroImage && (
 									<img
 										src={post.data.heroImage.src}
@@ -163,3 +175,24 @@ const categories = getAllCategories(posts);
 		<Footer />
 	</body>
 </html>
+
+<script is:inline>
+	(function () {
+		var pills = document.querySelectorAll('[data-filter]');
+		var items = document.querySelectorAll('[data-category]');
+
+		pills.forEach(function (pill) {
+			pill.addEventListener('click', function () {
+				var filter = pill.getAttribute('data-filter');
+
+				pills.forEach(function (p) { p.classList.remove('active'); });
+				pill.classList.add('active');
+
+				items.forEach(function (item) {
+					var match = filter === 'all' || item.getAttribute('data-category') === filter;
+					item.style.display = match ? '' : 'none';
+				});
+			});
+		});
+	})();
+</script>
