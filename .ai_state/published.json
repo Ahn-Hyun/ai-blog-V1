@@ -3,16 +3,21 @@
     "2026-04-21:US:ai capex and tariffs",
     "2026-04-21:US:mbs stress test",
     "2026-04-21:US:migration drop and long-term yields",
-    "2026-04-21:US:zero labor growth"
+    "2026-04-21:US:zero labor growth",
+    "2026-04-24:US:data center cre and grid constraints",
+    "2026-04-24:US:fed independence crisis"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
     "2026-04-21-how-ai-capex-and-tariffs-will-shape-2026-us-equities",
     "2026-04-21-how-migration-drop-and-long-term-yields-impact-real-estate",
-    "2026-04-21-zero-labor-growth-ai-and-productivity-in-corporate-strategy"
+    "2026-04-21-zero-labor-growth-ai-and-productivity-in-corporate-strategy",
+    "2026-04-24-data-center-cre-and-grid-constraints-reshape-valuations",
+    "2026-04-24-the-fed-independence-crisis-us-equity-market-impacts"
   ],
   "daily_impact_runs": [
-    "2026-04-20"
+    "2026-04-20",
+    "2026-04-23"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20"
