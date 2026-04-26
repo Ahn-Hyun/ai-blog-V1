@@ -7,7 +7,9 @@
     "2026-04-24:US:data center cre and grid constraints",
     "2026-04-24:US:fed independence crisis",
     "2026-04-25:US:cre refinancing defaults",
-    "2026-04-25:US:fed easing pause"
+    "2026-04-25:US:fed easing pause",
+    "2026-04-26:US:fed cre stress test",
+    "2026-04-26:US:obbba fiscal stimulus"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -17,12 +19,15 @@
     "2026-04-24-data-center-cre-and-grid-constraints-reshape-valuations",
     "2026-04-24-the-fed-independence-crisis-us-equity-market-impacts",
     "2026-04-25-how-the-fed-easing-pause-fractures-us-equity-markets",
-    "2026-04-25-understanding-the-cycle-of-cre-refinancing-defaults"
+    "2026-04-25-understanding-the-cycle-of-cre-refinancing-defaults",
+    "2026-04-26-how-the-fed-cre-stress-test-impacts-commercial-property",
+    "2026-04-26-how-the-obbba-fiscal-stimulus-impacts-us-equity-markets"
   ],
   "daily_impact_runs": [
     "2026-04-20",
     "2026-04-23",
-    "2026-04-24"
+    "2026-04-24",
+    "2026-04-25"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20"
