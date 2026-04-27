@@ -11,7 +11,9 @@
     "2026-04-26:US:fed cre stress test",
     "2026-04-26:US:obbba fiscal stimulus",
     "2026-04-27:US:fed delayed rate cuts real estate",
-    "2026-04-27:US:tariff inventory whiplash"
+    "2026-04-27:US:higher-for-longer rates",
+    "2026-04-27:US:tariff inventory whiplash",
+    "2026-04-27:US:us-iran conflict & tech correction"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -25,7 +27,9 @@
     "2026-04-26-how-the-fed-cre-stress-test-impacts-commercial-property",
     "2026-04-26-how-the-obbba-fiscal-stimulus-impacts-us-equity-markets",
     "2026-04-27-fed-delayed-rate-cuts-real-estate-market-refinancing-risks",
-    "2026-04-27-navigating-the-tariff-inventory-whiplash-in-q2-earnings"
+    "2026-04-27-navigating-higher-for-longer-rates-in-2026-real-estate",
+    "2026-04-27-navigating-the-tariff-inventory-whiplash-in-q2-earnings",
+    "2026-04-27-us-iran-conflict-tech-correction-equity-market-impacts"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -35,6 +39,7 @@
     "2026-04-26"
   ],
   "weekly_major_runs": [
-    "2026-04-14_2026-04-20"
+    "2026-04-14_2026-04-20",
+    "2026-04-20_2026-04-26"
   ]
 }
