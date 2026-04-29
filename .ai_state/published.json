@@ -15,7 +15,8 @@
     "2026-04-27:US:tariff inventory whiplash",
     "2026-04-27:US:us-iran conflict & tech correction",
     "2026-04-28:US:kevin warsh forward guidance",
-    "2026-04-28:US:warsh mortgage spreads"
+    "2026-04-28:US:warsh mortgage spreads",
+    "2026-04-29:US:tariffs"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -33,7 +34,8 @@
     "2026-04-27-navigating-the-tariff-inventory-whiplash-in-q2-earnings",
     "2026-04-27-us-iran-conflict-tech-correction-equity-market-impacts",
     "2026-04-28-kevin-warsh-forward-guidance-and-the-new-fed-regime",
-    "2026-04-28-understanding-warsh-mortgage-spreads-in-us-real-estate"
+    "2026-04-28-understanding-warsh-mortgage-spreads-in-us-real-estate",
+    "2026-04-29-how-us-tariffs-are-repricing-equity-markets-ahead-of-2026"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -41,7 +43,8 @@
     "2026-04-24",
     "2026-04-25",
     "2026-04-26",
-    "2026-04-27"
+    "2026-04-27",
+    "2026-04-28"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
