@@ -20,7 +20,9 @@
     "2026-05-01:US:10-year yield spike",
     "2026-05-01:US:fomc dissent",
     "2026-05-02:US:fed cre stress test",
-    "2026-05-02:US:fed stress test"
+    "2026-05-02:US:fed stress test",
+    "2026-05-03:US:fed rate hold",
+    "2026-05-03:US:higher for longer"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -43,7 +45,9 @@
     "2026-05-01-fomc-dissent-navigating-the-feds-historic-policy-fracture",
     "2026-05-01-fomc-division-how-a-10-year-yield-spike-alters-real-estate",
     "2026-05-02-2026-fed-cre-stress-test-regulatory-shifts-market-impacts",
-    "2026-05-02-fed-stress-test-regulatory-delays-and-cre-market-impacts"
+    "2026-05-02-fed-stress-test-regulatory-delays-and-cre-market-impacts",
+    "2026-05-03-higher-for-longer-rates-impact-on-us-equity-markets",
+    "2026-05-03-how-the-fed-rate-hold-creates-a-real-estate-market-divide"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -54,7 +58,8 @@
     "2026-04-27",
     "2026-04-28",
     "2026-04-30",
-    "2026-05-01"
+    "2026-05-01",
+    "2026-05-02"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
