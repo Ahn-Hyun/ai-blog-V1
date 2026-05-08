@@ -26,7 +26,8 @@
     "2026-05-04:US:fed rate hold",
     "2026-05-04:US:federal reserve april 2026 meeting",
     "2026-05-04:US:mortgage rates 2026 outlook",
-    "2026-05-07:US:30-year treasury 5%"
+    "2026-05-07:US:30-year treasury 5%",
+    "2026-05-08:US:30-year treasury 5%"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -55,7 +56,8 @@
     "2026-05-04-fed-rate-hold-navigating-earnings-and-multiple-compression",
     "2026-05-04-federal-reserve-april-2026-meeting-rate-hold-scenario",
     "2026-05-04-mortgage-rates-2026-outlook-navigating-the-fed-pause",
-    "2026-05-07-how-the-30-year-treasury-5-yield-threshold-impacts-stocks"
+    "2026-05-07-how-the-30-year-treasury-5-yield-threshold-impacts-stocks",
+    "2026-05-08-analyzing-the-30-year-treasury-5-impact-on-us-equities"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -69,7 +71,8 @@
     "2026-05-01",
     "2026-05-02",
     "2026-05-03",
-    "2026-05-06"
+    "2026-05-06",
+    "2026-05-07"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
