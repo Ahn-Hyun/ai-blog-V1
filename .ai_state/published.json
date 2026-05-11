@@ -29,7 +29,9 @@
     "2026-05-07:US:30-year treasury 5%",
     "2026-05-08:US:30-year treasury 5%",
     "2026-05-10:US:kevin warsh fed chair",
-    "2026-05-10:US:private credit ai contagion"
+    "2026-05-10:US:private credit ai contagion",
+    "2026-05-11:US:cre refinancing risk",
+    "2026-05-11:US:fed stress tests"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -61,7 +63,9 @@
     "2026-05-07-how-the-30-year-treasury-5-yield-threshold-impacts-stocks",
     "2026-05-08-analyzing-the-30-year-treasury-5-impact-on-us-equities",
     "2026-05-10-assessing-the-risk-of-a-private-credit-ai-contagion",
-    "2026-05-10-the-impact-of-a-kevin-warsh-fed-chair-on-real-estate"
+    "2026-05-10-the-impact-of-a-kevin-warsh-fed-chair-on-real-estate",
+    "2026-05-11-cre-refinancing-risk-fed-stress-tests-2026-maturities",
+    "2026-05-11-how-the-2026-fed-stress-tests-impact-bank-capital-returns"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -77,7 +81,8 @@
     "2026-05-03",
     "2026-05-06",
     "2026-05-07",
-    "2026-05-09"
+    "2026-05-09",
+    "2026-05-10"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
