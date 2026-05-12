@@ -33,7 +33,9 @@
     "2026-05-11:US:10-year treasury yield",
     "2026-05-11:US:cre refinancing risk",
     "2026-05-11:US:fed stress tests",
-    "2026-05-11:US:s&p 500 q1 2026 earnings"
+    "2026-05-11:US:s&p 500 q1 2026 earnings",
+    "2026-05-12:US:private credit",
+    "2026-05-12:US:residential valuations"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -69,7 +71,9 @@
     "2026-05-11-10-year-treasury-yield-impact-on-the-2024-housing-market",
     "2026-05-11-cre-refinancing-risk-fed-stress-tests-2026-maturities",
     "2026-05-11-how-the-2026-fed-stress-tests-impact-bank-capital-returns",
-    "2026-05-11-sp-500-q1-2026-earnings-analyzing-corporate-resilience"
+    "2026-05-11-sp-500-q1-2026-earnings-analyzing-corporate-resilience",
+    "2026-05-12-how-residential-valuations-impact-us-housing-liquidity",
+    "2026-05-12-private-credit-regulation-the-federal-reserves-2026-shift"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -86,7 +90,8 @@
     "2026-05-06",
     "2026-05-07",
     "2026-05-09",
-    "2026-05-10"
+    "2026-05-10",
+    "2026-05-11"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
