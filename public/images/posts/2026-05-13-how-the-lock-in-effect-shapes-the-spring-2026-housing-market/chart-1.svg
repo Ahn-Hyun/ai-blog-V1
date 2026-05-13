@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="580" viewBox="0 0 1000 580" role="img" aria-label="Bar chart displaying March 2026 year-over-year increases: Core Inflation at 2.6%, Headline Inflation at 3.3%, Energy Index at 10.9%, and Gasoline Prices at 21.2%.">
+<rect width="100%" height="100%" fill="#f8fafc" rx="10"/>
+<text x="110" y="44" font-size="20" font-weight="700" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#0f172a">Year-Over-Year Inflation Metrics (March 2026)</text>
+<text x="110" y="68" font-size="13" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#64748b">%</text>
+<line x1="110" y1="100" x2="110" y2="480" stroke="#cbd5e1" stroke-width="1.5"/>
+<line x1="110" y1="480" x2="960" y2="480" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="102" y="484.00" text-anchor="end" font-size="12" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#94a3b8">0</text>
+<line x1="110" y1="396.67" x2="960" y2="396.67" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="102" y="400.67" text-anchor="end" font-size="12" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#94a3b8">5.3</text>
+<line x1="110" y1="313.33" x2="960" y2="313.33" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="102" y="317.33" text-anchor="end" font-size="12" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#94a3b8">10.6</text>
+<line x1="110" y1="230.00" x2="960" y2="230.00" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="102" y="234.00" text-anchor="end" font-size="12" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#94a3b8">15.9</text>
+<line x1="110" y1="146.67" x2="960" y2="146.67" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="102" y="150.67" text-anchor="end" font-size="12" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#94a3b8">21.2</text>
+<rect x="157.81" y="439.12" width="116.88" height="40.88" fill="#1d4ed8" rx="5" opacity="0.88"/>
+<text x="216.25" y="430.12" text-anchor="middle" font-size="13" font-weight="700" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#1d4ed8">2.6</text>
+<text x="216.25" y="506" text-anchor="middle" font-size="13" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#475569">Core Inflation</text>
+<rect x="370.31" y="428.11" width="116.88" height="51.89" fill="#0891b2" rx="5" opacity="0.88"/>
+<text x="428.75" y="419.11" text-anchor="middle" font-size="13" font-weight="700" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#0891b2">3.3</text>
+<text x="428.75" y="506" text-anchor="middle" font-size="13" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#475569">Headline Inflation</text>
+<rect x="582.81" y="308.62" width="116.88" height="171.38" fill="#059669" rx="5" opacity="0.88"/>
+<text x="641.25" y="299.62" text-anchor="middle" font-size="13" font-weight="700" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#059669">10.9</text>
+<text x="641.25" y="506" text-anchor="middle" font-size="13" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#475569">Energy Index</text>
+<rect x="795.31" y="146.67" width="116.88" height="333.33" fill="#d97706" rx="5" opacity="0.88"/>
+<text x="853.75" y="137.67" text-anchor="middle" font-size="13" font-weight="700" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#d97706">21.2</text>
+<text x="853.75" y="506" text-anchor="middle" font-size="13" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#475569">Gasoline Prices</text>
+</svg>
