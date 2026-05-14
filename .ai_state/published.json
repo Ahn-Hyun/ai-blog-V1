@@ -37,7 +37,9 @@
     "2026-05-12:US:private credit",
     "2026-05-12:US:residential valuations",
     "2026-05-13:US:corporate debt wall",
-    "2026-05-13:US:lock-in effect"
+    "2026-05-13:US:lock-in effect",
+    "2026-05-14:US:agency mbs purchase",
+    "2026-05-14:US:fannie/freddie mbs proposal"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -77,7 +79,9 @@
     "2026-05-12-how-residential-valuations-impact-us-housing-liquidity",
     "2026-05-12-private-credit-regulation-the-federal-reserves-2026-shift",
     "2026-05-13-how-the-lock-in-effect-shapes-the-spring-2026-housing-market",
-    "2026-05-13-navigating-the-corporate-debt-wall-in-equity-markets"
+    "2026-05-13-navigating-the-corporate-debt-wall-in-equity-markets",
+    "2026-05-14-evaluating-the-200-billion-agency-mbs-purchase-impact",
+    "2026-05-14-what-the-fanniefreddie-mbs-proposal-means-for-housing"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -96,7 +100,8 @@
     "2026-05-09",
     "2026-05-10",
     "2026-05-11",
-    "2026-05-12"
+    "2026-05-12",
+    "2026-05-13"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
