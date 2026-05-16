@@ -39,7 +39,9 @@
     "2026-05-13:US:corporate debt wall",
     "2026-05-13:US:lock-in effect",
     "2026-05-14:US:agency mbs purchase",
-    "2026-05-14:US:fannie/freddie mbs proposal"
+    "2026-05-14:US:fannie/freddie mbs proposal",
+    "2026-05-16:US:kevin warsh fed chair",
+    "2026-05-16:US:warsh fed nomination"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -81,7 +83,9 @@
     "2026-05-13-how-the-lock-in-effect-shapes-the-spring-2026-housing-market",
     "2026-05-13-navigating-the-corporate-debt-wall-in-equity-markets",
     "2026-05-14-evaluating-the-200-billion-agency-mbs-purchase-impact",
-    "2026-05-14-what-the-fanniefreddie-mbs-proposal-means-for-housing"
+    "2026-05-14-what-the-fanniefreddie-mbs-proposal-means-for-housing",
+    "2026-05-16-how-a-kevin-warsh-fed-chair-impacts-commercial-real-estate",
+    "2026-05-16-the-warsh-fed-nomination-shifts-in-us-monetary-policy"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -101,7 +105,8 @@
     "2026-05-10",
     "2026-05-11",
     "2026-05-12",
-    "2026-05-13"
+    "2026-05-13",
+    "2026-05-15"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
