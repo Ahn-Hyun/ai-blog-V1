@@ -43,7 +43,9 @@
     "2026-05-16:US:kevin warsh fed chair",
     "2026-05-16:US:warsh fed nomination",
     "2026-05-17:US:treasury yield spike",
-    "2026-05-17:US:treasury yields"
+    "2026-05-17:US:treasury yields",
+    "2026-05-18:US:fed funds rate stabilization",
+    "2026-05-18:US:tbac q2 2026"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -89,7 +91,9 @@
     "2026-05-16-how-a-kevin-warsh-fed-chair-impacts-commercial-real-estate",
     "2026-05-16-the-warsh-fed-nomination-shifts-in-us-monetary-policy",
     "2026-05-17-how-rising-treasury-yields-impact-us-capital-markets",
-    "2026-05-17-how-the-treasury-yield-spike-impacts-real-estate-valuations"
+    "2026-05-17-how-the-treasury-yield-spike-impacts-real-estate-valuations",
+    "2026-05-18-fed-funds-rate-stabilization-a-new-real-estate-baseline",
+    "2026-05-18-tbac-q2-2026-treasury-borrowing-strategy-equity-impacts"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -111,7 +115,8 @@
     "2026-05-12",
     "2026-05-13",
     "2026-05-15",
-    "2026-05-16"
+    "2026-05-16",
+    "2026-05-17"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
