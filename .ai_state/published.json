@@ -47,7 +47,9 @@
     "2026-05-18:US:commercial real estate & housing",
     "2026-05-18:US:consumer spending & inflation",
     "2026-05-18:US:fed funds rate stabilization",
-    "2026-05-18:US:tbac q2 2026"
+    "2026-05-18:US:tbac q2 2026",
+    "2026-05-20:US:quantitative tightening",
+    "2026-05-20:US:quantitative tightening mbs"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -97,7 +99,9 @@
     "2026-05-18-2026-equities-consumer-spending-inflation-outlook",
     "2026-05-18-commercial-real-estate-housing-macroeconomic-trends",
     "2026-05-18-fed-funds-rate-stabilization-a-new-real-estate-baseline",
-    "2026-05-18-tbac-q2-2026-treasury-borrowing-strategy-equity-impacts"
+    "2026-05-18-tbac-q2-2026-treasury-borrowing-strategy-equity-impacts",
+    "2026-05-20-how-quantitative-tightening-impacts-the-stock-market",
+    "2026-05-20-how-quantitative-tightening-mbs-impacts-real-estate-costs"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -120,7 +124,8 @@
     "2026-05-13",
     "2026-05-15",
     "2026-05-16",
-    "2026-05-17"
+    "2026-05-17",
+    "2026-05-19"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
