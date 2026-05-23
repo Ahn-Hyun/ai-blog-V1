@@ -51,7 +51,9 @@
     "2026-05-20:US:quantitative tightening",
     "2026-05-20:US:quantitative tightening mbs",
     "2026-05-21:US:elevated 10-year yields",
-    "2026-05-21:US:fiscal stimulus"
+    "2026-05-21:US:fiscal stimulus",
+    "2026-05-23:US:ai infrastructure capex",
+    "2026-05-23:US:ai infrastructure cre"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -105,7 +107,9 @@
     "2026-05-20-how-quantitative-tightening-impacts-the-stock-market",
     "2026-05-20-how-quantitative-tightening-mbs-impacts-real-estate-costs",
     "2026-05-21-elevated-10-year-yields-keep-fixed-mortgage-rates-high",
-    "2026-05-21-how-obbba-fiscal-stimulus-impacts-us-equities-in-2026"
+    "2026-05-21-how-obbba-fiscal-stimulus-impacts-us-equities-in-2026",
+    "2026-05-23-ai-infrastructure-cre-the-shift-in-commercial-real-estate",
+    "2026-05-23-how-ai-infrastructure-capex-sustains-us-economic-growth"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -130,7 +134,8 @@
     "2026-05-16",
     "2026-05-17",
     "2026-05-19",
-    "2026-05-20"
+    "2026-05-20",
+    "2026-05-22"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
