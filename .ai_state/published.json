@@ -53,7 +53,9 @@
     "2026-05-21:US:elevated 10-year yields",
     "2026-05-21:US:fiscal stimulus",
     "2026-05-23:US:ai infrastructure capex",
-    "2026-05-23:US:ai infrastructure cre"
+    "2026-05-23:US:ai infrastructure cre",
+    "2026-05-24:US:data centers",
+    "2026-05-24:US:gig economy & consumer discretionary"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -109,7 +111,9 @@
     "2026-05-21-elevated-10-year-yields-keep-fixed-mortgage-rates-high",
     "2026-05-21-how-obbba-fiscal-stimulus-impacts-us-equities-in-2026",
     "2026-05-23-ai-infrastructure-cre-the-shift-in-commercial-real-estate",
-    "2026-05-23-how-ai-infrastructure-capex-sustains-us-economic-growth"
+    "2026-05-23-how-ai-infrastructure-capex-sustains-us-economic-growth",
+    "2026-05-24-gig-economy-consumer-discretionary-sector-trends",
+    "2026-05-24-the-impact-of-ai-on-data-centers-and-commercial-real-estate"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -135,7 +139,8 @@
     "2026-05-17",
     "2026-05-19",
     "2026-05-20",
-    "2026-05-22"
+    "2026-05-22",
+    "2026-05-23"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
