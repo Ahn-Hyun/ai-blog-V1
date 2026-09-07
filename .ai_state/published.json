@@ -59,7 +59,8 @@
     "2026-05-25:US:consumer spending & macro indicators",
     "2026-05-25:US:fed inflation tolerance real estate",
     "2026-05-25:US:fed policy",
-    "2026-05-25:US:us housing and commercial real estate"
+    "2026-05-25:US:us housing and commercial real estate",
+    "2026-09-07:US:august payrolls fed hike risk"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -121,7 +122,8 @@
     "2026-05-25-consumer-spending-macro-indicators-retail-margin-squeeze",
     "2026-05-25-fed-inflation-tolerance-real-estate-strategic-shifts",
     "2026-05-25-how-recent-fed-policy-shifts-influence-tech-stock-valuations",
-    "2026-05-25-tech-growth-masks-us-housing-and-commercial-real-estate-risks"
+    "2026-05-25-tech-growth-masks-us-housing-and-commercial-real-estate-risks",
+    "2026-09-07-august-payrolls-fed-hike-risk-grows-after-jobs-surprise"
   ],
   "daily_impact_runs": [
     "2026-04-20",
