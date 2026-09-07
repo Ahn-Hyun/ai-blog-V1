@@ -61,7 +61,9 @@
     "2026-05-25:US:fed policy",
     "2026-05-25:US:us housing and commercial real estate",
     "2026-09-07:US:ai-datacenter-capex-inflation",
+    "2026-09-07:US:august payrolls and fed hike odds",
     "2026-09-07:US:august payrolls fed hike risk",
+    "2026-09-07:US:housing affordability and rate risk",
     "2026-09-07:US:multifamily rent growth deceleration"
   ],
   "slugs": [
@@ -126,8 +128,10 @@
     "2026-05-25-how-recent-fed-policy-shifts-influence-tech-stock-valuations",
     "2026-05-25-tech-growth-masks-us-housing-and-commercial-real-estate-risks",
     "2026-09-07-ai-datacenter-capex-inflation-strains-grid-equipment",
+    "2026-09-07-august-payrolls-and-fed-hike-odds-impact-on-markets",
     "2026-09-07-august-payrolls-fed-hike-risk-grows-after-jobs-surprise",
-    "2026-09-07-multifamily-rent-growth-deceleration-pressures-landlords"
+    "2026-09-07-multifamily-rent-growth-deceleration-pressures-landlords",
+    "2026-09-07-us-housing-affordability-and-rate-risk-as-supply-grows"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -164,6 +168,7 @@
     "2026-04-27_2026-05-03",
     "2026-05-04_2026-05-10",
     "2026-05-11_2026-05-17",
-    "2026-05-18_2026-05-24"
+    "2026-05-18_2026-05-24",
+    "2026-08-31_2026-09-06"
   ]
 }
