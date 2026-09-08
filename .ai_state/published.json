@@ -64,7 +64,9 @@
     "2026-09-07:US:august payrolls and fed hike odds",
     "2026-09-07:US:august payrolls fed hike risk",
     "2026-09-07:US:housing affordability and rate risk",
-    "2026-09-07:US:multifamily rent growth deceleration"
+    "2026-09-07:US:multifamily rent growth deceleration",
+    "2026-09-08:US:fomc rate hike odds and cre refinancing",
+    "2026-09-08:US:september fomc rate hike repricing"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -131,7 +133,9 @@
     "2026-09-07-august-payrolls-and-fed-hike-odds-impact-on-markets",
     "2026-09-07-august-payrolls-fed-hike-risk-grows-after-jobs-surprise",
     "2026-09-07-multifamily-rent-growth-deceleration-pressures-landlords",
-    "2026-09-07-us-housing-affordability-and-rate-risk-as-supply-grows"
+    "2026-09-07-us-housing-affordability-and-rate-risk-as-supply-grows",
+    "2026-09-08-evaluating-fomc-rate-hike-odds-and-cre-refinancing-risks",
+    "2026-09-08-september-fomc-rate-hike-repricing-key-market-drivers"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -160,7 +164,8 @@
     "2026-05-22",
     "2026-05-23",
     "2026-05-24",
-    "2026-09-06"
+    "2026-09-06",
+    "2026-09-07"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
