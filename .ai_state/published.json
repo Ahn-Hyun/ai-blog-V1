@@ -66,7 +66,9 @@
     "2026-09-07:US:housing affordability and rate risk",
     "2026-09-07:US:multifamily rent growth deceleration",
     "2026-09-08:US:fomc rate hike odds and cre refinancing",
-    "2026-09-08:US:september fomc rate hike repricing"
+    "2026-09-08:US:september fomc rate hike repricing",
+    "2026-09-09:US:energy shock equity margin compression",
+    "2026-09-09:US:shelter inflation and multifamily rent deceleration"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -135,7 +137,9 @@
     "2026-09-07-multifamily-rent-growth-deceleration-pressures-landlords",
     "2026-09-07-us-housing-affordability-and-rate-risk-as-supply-grows",
     "2026-09-08-evaluating-fomc-rate-hike-odds-and-cre-refinancing-risks",
-    "2026-09-08-september-fomc-rate-hike-repricing-key-market-drivers"
+    "2026-09-08-september-fomc-rate-hike-repricing-key-market-drivers",
+    "2026-09-09-energy-shock-equity-margin-compression-market-impacts",
+    "2026-09-09-shelter-inflation-and-multifamily-rent-deceleration"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -165,7 +169,8 @@
     "2026-05-23",
     "2026-05-24",
     "2026-09-06",
-    "2026-09-07"
+    "2026-09-07",
+    "2026-09-08"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
