@@ -68,7 +68,9 @@
     "2026-09-08:US:fomc rate hike odds and cre refinancing",
     "2026-09-08:US:september fomc rate hike repricing",
     "2026-09-09:US:energy shock equity margin compression",
-    "2026-09-09:US:shelter inflation and multifamily rent deceleration"
+    "2026-09-09:US:shelter inflation and multifamily rent deceleration",
+    "2026-09-10:US:commercial real estate refinancing",
+    "2026-09-10:US:fed rate cut pricing and equity market transmission"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -139,7 +141,9 @@
     "2026-09-08-evaluating-fomc-rate-hike-odds-and-cre-refinancing-risks",
     "2026-09-08-september-fomc-rate-hike-repricing-key-market-drivers",
     "2026-09-09-energy-shock-equity-margin-compression-market-impacts",
-    "2026-09-09-shelter-inflation-and-multifamily-rent-deceleration"
+    "2026-09-09-shelter-inflation-and-multifamily-rent-deceleration",
+    "2026-09-10-commercial-real-estate-refinancing-the-2026-2027-outlook",
+    "2026-09-10-fed-rate-cut-pricing-and-equity-market-transmission-explained"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -170,7 +174,8 @@
     "2026-05-24",
     "2026-09-06",
     "2026-09-07",
-    "2026-09-08"
+    "2026-09-08",
+    "2026-09-09"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
