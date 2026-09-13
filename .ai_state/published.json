@@ -72,7 +72,9 @@
     "2026-09-10:US:commercial real estate refinancing",
     "2026-09-10:US:fed rate cut pricing and equity market transmission",
     "2026-09-11:US:ai infrastructure capex supply bottlenecks",
-    "2026-09-11:US:multifamily rent disinflation and cap rates"
+    "2026-09-11:US:multifamily rent disinflation and cap rates",
+    "2026-09-13:US:cre refinancing and mortgage rate floor",
+    "2026-09-13:US:jobless claims hawkish fed pause equity valuation"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -147,7 +149,9 @@
     "2026-09-10-commercial-real-estate-refinancing-the-2026-2027-outlook",
     "2026-09-10-fed-rate-cut-pricing-and-equity-market-transmission-explained",
     "2026-09-11-ai-infrastructure-capex-supply-bottlenecks-reshape-energy",
-    "2026-09-11-multifamily-rent-disinflation-and-cap-rates-impact-on-yields"
+    "2026-09-11-multifamily-rent-disinflation-and-cap-rates-impact-on-yields",
+    "2026-09-13-hawkish-fed-pause-and-jobless-claims-equity-valuation-risks",
+    "2026-09-13-managing-cre-refinancing-and-mortgage-rate-floor-shifts"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -180,7 +184,8 @@
     "2026-09-07",
     "2026-09-08",
     "2026-09-09",
-    "2026-09-10"
+    "2026-09-10",
+    "2026-09-12"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
