@@ -75,7 +75,9 @@
     "2026-09-11:US:multifamily rent disinflation and cap rates",
     "2026-09-13:US:cre refinancing and mortgage rate floor",
     "2026-09-13:US:jobless claims hawkish fed pause equity valuation",
+    "2026-09-14:US:fed hike repricing after strong august jobs data",
     "2026-09-14:US:household unemployment expectations consumer discretionary margins",
+    "2026-09-14:US:mortgage rates multi-week highs september 2026",
     "2026-09-14:US:shelter inflation deceleration and multifamily noi"
   ],
   "slugs": [
@@ -154,6 +156,8 @@
     "2026-09-11-multifamily-rent-disinflation-and-cap-rates-impact-on-yields",
     "2026-09-13-hawkish-fed-pause-and-jobless-claims-equity-valuation-risks",
     "2026-09-13-managing-cre-refinancing-and-mortgage-rate-floor-shifts",
+    "2026-09-14-fed-hike-repricing-after-strong-august-jobs-data-shifts",
+    "2026-09-14-mortgage-rates-hit-multi-week-highs-in-september-2026",
     "2026-09-14-shelter-inflation-deceleration-and-multifamily-noi-trends",
     "2026-09-14-unemployment-expectations-consumer-discretionary-margins"
   ],
@@ -199,6 +203,7 @@
     "2026-05-04_2026-05-10",
     "2026-05-11_2026-05-17",
     "2026-05-18_2026-05-24",
-    "2026-08-31_2026-09-06"
+    "2026-08-31_2026-09-06",
+    "2026-09-07_2026-09-13"
   ]
 }
