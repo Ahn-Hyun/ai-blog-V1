@@ -74,7 +74,9 @@
     "2026-09-11:US:ai infrastructure capex supply bottlenecks",
     "2026-09-11:US:multifamily rent disinflation and cap rates",
     "2026-09-13:US:cre refinancing and mortgage rate floor",
-    "2026-09-13:US:jobless claims hawkish fed pause equity valuation"
+    "2026-09-13:US:jobless claims hawkish fed pause equity valuation",
+    "2026-09-14:US:household unemployment expectations consumer discretionary margins",
+    "2026-09-14:US:shelter inflation deceleration and multifamily noi"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -151,7 +153,9 @@
     "2026-09-11-ai-infrastructure-capex-supply-bottlenecks-reshape-energy",
     "2026-09-11-multifamily-rent-disinflation-and-cap-rates-impact-on-yields",
     "2026-09-13-hawkish-fed-pause-and-jobless-claims-equity-valuation-risks",
-    "2026-09-13-managing-cre-refinancing-and-mortgage-rate-floor-shifts"
+    "2026-09-13-managing-cre-refinancing-and-mortgage-rate-floor-shifts",
+    "2026-09-14-shelter-inflation-deceleration-and-multifamily-noi-trends",
+    "2026-09-14-unemployment-expectations-consumer-discretionary-margins"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -185,7 +189,8 @@
     "2026-09-08",
     "2026-09-09",
     "2026-09-10",
-    "2026-09-12"
+    "2026-09-12",
+    "2026-09-13"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
