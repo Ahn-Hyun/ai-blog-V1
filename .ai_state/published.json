@@ -78,7 +78,9 @@
     "2026-09-14:US:fed hike repricing after strong august jobs data",
     "2026-09-14:US:household unemployment expectations consumer discretionary margins",
     "2026-09-14:US:mortgage rates multi-week highs september 2026",
-    "2026-09-14:US:shelter inflation deceleration and multifamily noi"
+    "2026-09-14:US:shelter inflation deceleration and multifamily noi",
+    "2026-09-16:US:10-year treasury yield 5%",
+    "2026-09-16:US:10-year treasury yield at 5.00%"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -159,7 +161,9 @@
     "2026-09-14-fed-hike-repricing-after-strong-august-jobs-data-shifts",
     "2026-09-14-mortgage-rates-hit-multi-week-highs-in-september-2026",
     "2026-09-14-shelter-inflation-deceleration-and-multifamily-noi-trends",
-    "2026-09-14-unemployment-expectations-consumer-discretionary-margins"
+    "2026-09-14-unemployment-expectations-consumer-discretionary-margins",
+    "2026-09-16-10-year-treasury-yield-5-impact-on-stock-valuations",
+    "2026-09-16-10-year-treasury-yield-at-500-real-estate-impact"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -194,7 +198,8 @@
     "2026-09-09",
     "2026-09-10",
     "2026-09-12",
-    "2026-09-13"
+    "2026-09-13",
+    "2026-09-15"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
