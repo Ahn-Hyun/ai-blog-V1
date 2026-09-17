@@ -80,7 +80,9 @@
     "2026-09-14:US:mortgage rates multi-week highs september 2026",
     "2026-09-14:US:shelter inflation deceleration and multifamily noi",
     "2026-09-16:US:10-year treasury yield 5%",
-    "2026-09-16:US:10-year treasury yield at 5.00%"
+    "2026-09-16:US:10-year treasury yield at 5.00%",
+    "2026-09-17:US:fed 4.1% projected rate floor real estate impact",
+    "2026-09-17:US:fomc sep rate path repricing"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -163,7 +165,9 @@
     "2026-09-14-shelter-inflation-deceleration-and-multifamily-noi-trends",
     "2026-09-14-unemployment-expectations-consumer-discretionary-margins",
     "2026-09-16-10-year-treasury-yield-5-impact-on-stock-valuations",
-    "2026-09-16-10-year-treasury-yield-at-500-real-estate-impact"
+    "2026-09-16-10-year-treasury-yield-at-500-real-estate-impact",
+    "2026-09-17-fed-41-projected-rate-floor-real-estate-impact-explained",
+    "2026-09-17-fomc-sep-rate-path-repricing-parsing-fed-projections"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -199,7 +203,8 @@
     "2026-09-10",
     "2026-09-12",
     "2026-09-13",
-    "2026-09-15"
+    "2026-09-15",
+    "2026-09-16"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
