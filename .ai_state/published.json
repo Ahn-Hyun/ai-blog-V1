@@ -86,7 +86,9 @@
     "2026-09-18:US:30-year mortgage rate 7 percent",
     "2026-09-18:US:treasury yield spike",
     "2026-09-19:US:10-year treasury yield 5 percent commercial cap rates and mortgages",
-    "2026-09-19:US:fed rate hike equity valuation repricing"
+    "2026-09-19:US:fed rate hike equity valuation repricing",
+    "2026-09-20:US:10-year treasury yield",
+    "2026-09-20:US:mortgage rates and 10-year treasury yield"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -175,7 +177,9 @@
     "2026-09-18-treasury-yield-spike-impact-on-stocks-and-fed-rate-cuts",
     "2026-09-18-why-the-30-year-mortgage-rate-7-percent-mark-divides-housing",
     "2026-09-19-10-year-treasury-yield-at-5-commercial-cap-rates-mortgages",
-    "2026-09-19-fed-rate-hike-equity-valuation-repricing-earnings-impact"
+    "2026-09-19-fed-rate-hike-equity-valuation-repricing-earnings-impact",
+    "2026-09-20-how-a-5-10-year-treasury-yield-impacts-stock-valuations",
+    "2026-09-20-mortgage-rates-and-10-year-treasury-yield-market-impact"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -214,7 +218,8 @@
     "2026-09-15",
     "2026-09-16",
     "2026-09-17",
-    "2026-09-18"
+    "2026-09-18",
+    "2026-09-19"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
