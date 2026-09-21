@@ -88,7 +88,9 @@
     "2026-09-19:US:10-year treasury yield 5 percent commercial cap rates and mortgages",
     "2026-09-19:US:fed rate hike equity valuation repricing",
     "2026-09-20:US:10-year treasury yield",
-    "2026-09-20:US:mortgage rates and 10-year treasury yield"
+    "2026-09-20:US:mortgage rates and 10-year treasury yield",
+    "2026-09-21:US:10-year treasury yield above 5 percent",
+    "2026-09-21:US:fed agency mbs runoff pivot"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -179,7 +181,9 @@
     "2026-09-19-10-year-treasury-yield-at-5-commercial-cap-rates-mortgages",
     "2026-09-19-fed-rate-hike-equity-valuation-repricing-earnings-impact",
     "2026-09-20-how-a-5-10-year-treasury-yield-impacts-stock-valuations",
-    "2026-09-20-mortgage-rates-and-10-year-treasury-yield-market-impact"
+    "2026-09-20-mortgage-rates-and-10-year-treasury-yield-market-impact",
+    "2026-09-21-10-year-treasury-yield-above-5-percent-market-impact",
+    "2026-09-21-the-fed-agency-mbs-runoff-pivot-and-balance-sheet-shift"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -219,7 +223,8 @@
     "2026-09-16",
     "2026-09-17",
     "2026-09-18",
-    "2026-09-19"
+    "2026-09-19",
+    "2026-09-20"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
