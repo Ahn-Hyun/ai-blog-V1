@@ -92,7 +92,9 @@
     "2026-09-21:US:10-year treasury yield above 5 percent",
     "2026-09-21:US:fed agency mbs runoff pivot",
     "2026-09-21:US:fed hike, oil shock, 10-year yield near 5%",
-    "2026-09-21:US:mortgage rates, 10-year yield, housing slowdown"
+    "2026-09-21:US:mortgage rates, 10-year yield, housing slowdown",
+    "2026-09-22:US:10-year treasury yield 5%",
+    "2026-09-22:US:10-year treasury yield real estate impact"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -187,7 +189,9 @@
     "2026-09-21-10-year-treasury-yield-above-5-percent-market-impact",
     "2026-09-21-fed-hike-and-10-year-yield-near-5-pressure-valuations",
     "2026-09-21-how-the-10-year-yield-drives-mortgage-rates-and-housing-slowdown",
-    "2026-09-21-the-fed-agency-mbs-runoff-pivot-and-balance-sheet-shift"
+    "2026-09-21-the-fed-agency-mbs-runoff-pivot-and-balance-sheet-shift",
+    "2026-09-22-10-year-treasury-yield-real-estate-impact-on-borrowing-costs",
+    "2026-09-22-the-10-year-treasury-yield-5-level-and-stock-valuations"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -228,7 +232,8 @@
     "2026-09-17",
     "2026-09-18",
     "2026-09-19",
-    "2026-09-20"
+    "2026-09-20",
+    "2026-09-21"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
