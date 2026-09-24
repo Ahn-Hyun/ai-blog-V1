@@ -96,7 +96,9 @@
     "2026-09-22:US:10-year treasury yield 5%",
     "2026-09-22:US:10-year treasury yield real estate impact",
     "2026-09-23:US:cre refinancing wall and cap rate repricing",
-    "2026-09-23:US:fomc sep 2027 terminal rate"
+    "2026-09-23:US:fomc sep 2027 terminal rate",
+    "2026-09-24:US:fed easing trajectory cre refinancing mortgage rates",
+    "2026-09-24:US:fed-balance-sheet-liquidity"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -195,7 +197,9 @@
     "2026-09-22-10-year-treasury-yield-real-estate-impact-on-borrowing-costs",
     "2026-09-22-the-10-year-treasury-yield-5-level-and-stock-valuations",
     "2026-09-23-fomc-sep-2027-terminal-rate-signals-sustained-restraint",
-    "2026-09-23-the-cre-refinancing-wall-and-cap-rate-repricing-outlook"
+    "2026-09-23-the-cre-refinancing-wall-and-cap-rate-repricing-outlook",
+    "2026-09-24-fed-balance-sheet-liquidity-and-overnight-repo-markets",
+    "2026-09-24-fed-easing-trajectory-cre-refinancing-and-mortgage-rates"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -238,7 +242,8 @@
     "2026-09-19",
     "2026-09-20",
     "2026-09-21",
-    "2026-09-22"
+    "2026-09-22",
+    "2026-09-23"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
