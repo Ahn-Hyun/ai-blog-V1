@@ -106,7 +106,9 @@
     "2026-10-02:US:ai infrastructure debt and capex",
     "2026-10-02:US:multifamily rent disinflation",
     "2026-10-03:US:10-year treasury yield valuation squeeze",
-    "2026-10-03:US:shelter inflation multifamily noi"
+    "2026-10-03:US:shelter inflation multifamily noi",
+    "2026-10-04:US:energy-driven inflation divergence",
+    "2026-10-04:US:shelter disinflation and multifamily valuations"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -215,7 +217,9 @@
     "2026-10-02-ai-infrastructure-debt-and-capex-assessing-balance-sheets",
     "2026-10-02-multifamily-rent-disinflation-pressures-landlord-margins",
     "2026-10-03-navigating-the-10-year-treasury-yield-valuation-squeeze",
-    "2026-10-03-shelter-inflation-and-multifamily-noi-trends-in-2026"
+    "2026-10-03-shelter-inflation-and-multifamily-noi-trends-in-2026",
+    "2026-10-04-energy-driven-inflation-divergence-sentiment-and-equities",
+    "2026-10-04-shelter-disinflation-and-multifamily-valuations-key-risks"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -263,7 +267,8 @@
     "2026-09-24",
     "2026-09-30",
     "2026-10-01",
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-03"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
