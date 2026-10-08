@@ -116,7 +116,9 @@
     "2026-10-06:US:10-year treasury yield and commercial real estate refinancing",
     "2026-10-06:US:us labor slowdown fed rate expectations",
     "2026-10-07:US:equity risk premium",
-    "2026-10-07:US:treasury-yields-cre-cap-rates"
+    "2026-10-07:US:treasury-yields-cre-cap-rates",
+    "2026-10-08:US:10-year treasury yield spike and equity multiple compression",
+    "2026-10-08:US:mortgage rates"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -235,7 +237,9 @@
     "2026-10-06-10-year-treasury-yield-and-commercial-real-estate-refinancing",
     "2026-10-06-us-labor-slowdown-shifts-fed-rate-expectations-for-2026",
     "2026-10-07-how-rising-bond-yields-compress-the-equity-risk-premium",
-    "2026-10-07-how-rising-treasury-yields-push-cre-cap-rates-upward"
+    "2026-10-07-how-rising-treasury-yields-push-cre-cap-rates-upward",
+    "2026-10-08-10-year-treasury-yield-spike-and-equity-multiple-compression",
+    "2026-10-08-us-mortgage-rates-climb-to-749-as-treasury-yields-rise"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -287,7 +291,8 @@
     "2026-10-03",
     "2026-10-04",
     "2026-10-05",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
