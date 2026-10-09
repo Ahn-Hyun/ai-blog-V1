@@ -118,7 +118,9 @@
     "2026-10-07:US:equity risk premium",
     "2026-10-07:US:treasury-yields-cre-cap-rates",
     "2026-10-08:US:10-year treasury yield spike and equity multiple compression",
-    "2026-10-08:US:mortgage rates"
+    "2026-10-08:US:mortgage rates",
+    "2026-10-09:US:yield curve bear steepening cost of capital",
+    "2026-10-09:US:yield curve bear steepening real estate impact"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -239,7 +241,9 @@
     "2026-10-07-how-rising-bond-yields-compress-the-equity-risk-premium",
     "2026-10-07-how-rising-treasury-yields-push-cre-cap-rates-upward",
     "2026-10-08-10-year-treasury-yield-spike-and-equity-multiple-compression",
-    "2026-10-08-us-mortgage-rates-climb-to-749-as-treasury-yields-rise"
+    "2026-10-08-us-mortgage-rates-climb-to-749-as-treasury-yields-rise",
+    "2026-10-09-yield-curve-bear-steepening-cost-of-capital-what-it-means-for-stocks",
+    "2026-10-09-yield-curve-bear-steepening-real-estate-impact-and-risks"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -292,7 +296,8 @@
     "2026-10-04",
     "2026-10-05",
     "2026-10-06",
-    "2026-10-07"
+    "2026-10-07",
+    "2026-10-08"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
