@@ -124,7 +124,9 @@
     "2026-10-10:US:energy stagflation margin squeeze",
     "2026-10-10:US:shelter disinflation and multifamily margins",
     "2026-10-11:US:fed rate hike cre debt and mortgage rates",
-    "2026-10-11:US:fed rate hike equity discount rates"
+    "2026-10-11:US:fed rate hike equity discount rates",
+    "2026-10-12:US:business fixed investment",
+    "2026-10-12:US:multifamily rent disinflation"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -251,7 +253,9 @@
     "2026-10-10-energy-stagflation-margin-squeeze-and-fed-rate-policy",
     "2026-10-10-shelter-disinflation-and-multifamily-margins-noi-trends",
     "2026-10-11-fed-rate-hike-cre-debt-and-mortgage-rates-explained",
-    "2026-10-11-fed-rate-hike-equity-discount-rates-and-stock-valuations"
+    "2026-10-11-fed-rate-hike-equity-discount-rates-and-stock-valuations",
+    "2026-10-12-how-apartment-completions-fuel-multifamily-rent-disinflation",
+    "2026-10-12-where-business-fixed-investment-in-technology-is-flowing"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -307,7 +311,8 @@
     "2026-10-07",
     "2026-10-08",
     "2026-10-09",
-    "2026-10-10"
+    "2026-10-10",
+    "2026-10-11"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
