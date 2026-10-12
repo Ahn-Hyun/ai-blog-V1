@@ -125,7 +125,9 @@
     "2026-10-10:US:shelter disinflation and multifamily margins",
     "2026-10-11:US:fed rate hike cre debt and mortgage rates",
     "2026-10-11:US:fed rate hike equity discount rates",
+    "2026-10-12:US:10-year treasury yield",
     "2026-10-12:US:business fixed investment",
+    "2026-10-12:US:mortgage rates and shelter disinflation",
     "2026-10-12:US:multifamily rent disinflation"
   ],
   "slugs": [
@@ -255,6 +257,8 @@
     "2026-10-11-fed-rate-hike-cre-debt-and-mortgage-rates-explained",
     "2026-10-11-fed-rate-hike-equity-discount-rates-and-stock-valuations",
     "2026-10-12-how-apartment-completions-fuel-multifamily-rent-disinflation",
+    "2026-10-12-how-the-rising-10-year-treasury-yield-impacts-capital-costs",
+    "2026-10-12-mortgage-rates-and-shelter-disinflation-capital-cost-trends",
     "2026-10-12-where-business-fixed-investment-in-technology-is-flowing"
   ],
   "daily_impact_runs": [
@@ -324,6 +328,7 @@
     "2026-08-31_2026-09-06",
     "2026-09-07_2026-09-13",
     "2026-09-14_2026-09-20",
-    "2026-09-28_2026-10-04"
+    "2026-09-28_2026-10-04",
+    "2026-10-05_2026-10-11"
   ]
 }
