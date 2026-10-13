@@ -128,7 +128,9 @@
     "2026-10-12:US:10-year treasury yield",
     "2026-10-12:US:business fixed investment",
     "2026-10-12:US:mortgage rates and shelter disinflation",
-    "2026-10-12:US:multifamily rent disinflation"
+    "2026-10-12:US:multifamily rent disinflation",
+    "2026-10-13:US:10-year treasury yield 5.34%",
+    "2026-10-13:US:30-year mortgage rates 7.4% cycle peak"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -259,7 +261,9 @@
     "2026-10-12-how-apartment-completions-fuel-multifamily-rent-disinflation",
     "2026-10-12-how-the-rising-10-year-treasury-yield-impacts-capital-costs",
     "2026-10-12-mortgage-rates-and-shelter-disinflation-capital-cost-trends",
-    "2026-10-12-where-business-fixed-investment-in-technology-is-flowing"
+    "2026-10-12-where-business-fixed-investment-in-technology-is-flowing",
+    "2026-10-13-10-year-treasury-yield-534-drivers-and-valuation-impact",
+    "2026-10-13-30-year-mortgage-rates-74-cycle-peak-drive-price-cuts"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -316,7 +320,8 @@
     "2026-10-08",
     "2026-10-09",
     "2026-10-10",
-    "2026-10-11"
+    "2026-10-11",
+    "2026-10-12"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
