@@ -132,7 +132,9 @@
     "2026-10-13:US:10-year treasury yield 5.34%",
     "2026-10-13:US:30-year mortgage rates 7.4% cycle peak",
     "2026-10-14:US:q3 bank earnings trading windfall",
-    "2026-10-14:US:treasury yield surge and mortgage rates"
+    "2026-10-14:US:treasury yield surge and mortgage rates",
+    "2026-10-15:US:multifamily rent deceleration and debt service squeeze",
+    "2026-10-15:US:wall street bank q3 earnings"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -267,7 +269,9 @@
     "2026-10-13-10-year-treasury-yield-534-drivers-and-valuation-impact",
     "2026-10-13-30-year-mortgage-rates-74-cycle-peak-drive-price-cuts",
     "2026-10-14-q3-bank-earnings-trading-windfall-what-it-means-for-stocks",
-    "2026-10-14-treasury-yield-surge-and-mortgage-rates-market-impact"
+    "2026-10-14-treasury-yield-surge-and-mortgage-rates-market-impact",
+    "2026-10-15-multifamily-rent-deceleration-and-debt-service-squeeze",
+    "2026-10-15-wall-street-bank-q3-earnings-inside-jpmorgans-results"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -326,7 +330,8 @@
     "2026-10-10",
     "2026-10-11",
     "2026-10-12",
-    "2026-10-13"
+    "2026-10-13",
+    "2026-10-14"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",

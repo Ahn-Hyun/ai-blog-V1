@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="580" viewBox="0 0 1000 580" role="img" aria-label="Bar chart comparing year-over-year growth rates for JPMorgan Chase in Q3 2026, led by net interest income at 13%, average loans at 10%, managed revenue and average deposits at 8% each, and net income at 6%.">
+<rect width="100%" height="100%" fill="#f8fafc" rx="10"/>
+<text x="110" y="44" font-size="20" font-weight="700" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#0f172a">JPMorgan Chase Q3 2026 YoY Growth by Metric</text>
+<text x="110" y="68" font-size="13" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#64748b">%</text>
+<line x1="110" y1="100" x2="110" y2="480" stroke="#cbd5e1" stroke-width="1.5"/>
+<line x1="110" y1="480" x2="960" y2="480" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="102" y="484.00" text-anchor="end" font-size="12" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#94a3b8">0</text>
+<line x1="110" y1="396.67" x2="960" y2="396.67" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="102" y="400.67" text-anchor="end" font-size="12" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#94a3b8">3.25</text>
+<line x1="110" y1="313.33" x2="960" y2="313.33" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="102" y="317.33" text-anchor="end" font-size="12" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#94a3b8">6.5</text>
+<line x1="110" y1="230.00" x2="960" y2="230.00" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="102" y="234.00" text-anchor="end" font-size="12" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#94a3b8">9.75</text>
+<line x1="110" y1="146.67" x2="960" y2="146.67" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="102" y="150.67" text-anchor="end" font-size="12" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#94a3b8">13.0</text>
+<rect x="148.25" y="146.67" width="93.50" height="333.33" fill="#1d4ed8" rx="5" opacity="0.88"/>
+<text x="195.00" y="137.67" text-anchor="middle" font-size="13" font-weight="700" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#1d4ed8">13.0</text>
+<text x="195.00" y="506" text-anchor="middle" font-size="13" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#475569">Net Interest Income</text>
+<rect x="318.25" y="223.59" width="93.50" height="256.41" fill="#0891b2" rx="5" opacity="0.88"/>
+<text x="365.00" y="214.59" text-anchor="middle" font-size="13" font-weight="700" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#0891b2">10.0</text>
+<text x="365.00" y="506" text-anchor="middle" font-size="13" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#475569">Average Loans</text>
+<rect x="488.25" y="274.87" width="93.50" height="205.13" fill="#059669" rx="5" opacity="0.88"/>
+<text x="535.00" y="265.87" text-anchor="middle" font-size="13" font-weight="700" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#059669">8</text>
+<text x="535.00" y="506" text-anchor="middle" font-size="13" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#475569">Managed Revenue</text>
+<rect x="658.25" y="274.87" width="93.50" height="205.13" fill="#d97706" rx="5" opacity="0.88"/>
+<text x="705.00" y="265.87" text-anchor="middle" font-size="13" font-weight="700" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#d97706">8</text>
+<text x="705.00" y="506" text-anchor="middle" font-size="13" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#475569">Average Deposits</text>
+<rect x="828.25" y="326.15" width="93.50" height="153.85" fill="#7c3aed" rx="5" opacity="0.88"/>
+<text x="875.00" y="317.15" text-anchor="middle" font-size="13" font-weight="700" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#7c3aed">6</text>
+<text x="875.00" y="506" text-anchor="middle" font-size="13" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" fill="#475569">Net Income</text>
+</svg>
