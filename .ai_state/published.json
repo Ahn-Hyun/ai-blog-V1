@@ -134,7 +134,9 @@
     "2026-10-14:US:q3 bank earnings trading windfall",
     "2026-10-14:US:treasury yield surge and mortgage rates",
     "2026-10-15:US:multifamily rent deceleration and debt service squeeze",
-    "2026-10-15:US:wall street bank q3 earnings"
+    "2026-10-15:US:wall street bank q3 earnings",
+    "2026-10-16:US:commercial real estate debt refinancing",
+    "2026-10-16:US:fed policy tightening equity multiple compression"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -271,7 +273,9 @@
     "2026-10-14-q3-bank-earnings-trading-windfall-what-it-means-for-stocks",
     "2026-10-14-treasury-yield-surge-and-mortgage-rates-market-impact",
     "2026-10-15-multifamily-rent-deceleration-and-debt-service-squeeze",
-    "2026-10-15-wall-street-bank-q3-earnings-inside-jpmorgans-results"
+    "2026-10-15-wall-street-bank-q3-earnings-inside-jpmorgans-results",
+    "2026-10-16-commercial-real-estate-debt-refinancing-key-market-pressures",
+    "2026-10-16-fed-policy-tightening-and-equity-multiple-compression"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -331,7 +335,8 @@
     "2026-10-11",
     "2026-10-12",
     "2026-10-13",
-    "2026-10-14"
+    "2026-10-14",
+    "2026-10-15"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
