@@ -136,7 +136,9 @@
     "2026-10-15:US:multifamily rent deceleration and debt service squeeze",
     "2026-10-15:US:wall street bank q3 earnings",
     "2026-10-16:US:commercial real estate debt refinancing",
-    "2026-10-16:US:fed policy tightening equity multiple compression"
+    "2026-10-16:US:fed policy tightening equity multiple compression",
+    "2026-10-17:US:fed rate hike equity multiple compression",
+    "2026-10-17:US:treasury yield surge real estate valuation"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -275,7 +277,9 @@
     "2026-10-15-multifamily-rent-deceleration-and-debt-service-squeeze",
     "2026-10-15-wall-street-bank-q3-earnings-inside-jpmorgans-results",
     "2026-10-16-commercial-real-estate-debt-refinancing-key-market-pressures",
-    "2026-10-16-fed-policy-tightening-and-equity-multiple-compression"
+    "2026-10-16-fed-policy-tightening-and-equity-multiple-compression",
+    "2026-10-17-fed-rate-hike-equity-multiple-compression-and-valuations",
+    "2026-10-17-treasury-yield-surge-real-estate-valuation-2026-gridlock"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -336,7 +340,8 @@
     "2026-10-12",
     "2026-10-13",
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
