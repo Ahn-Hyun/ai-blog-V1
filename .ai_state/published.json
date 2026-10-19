@@ -140,7 +140,9 @@
     "2026-10-17:US:fed rate hike equity multiple compression",
     "2026-10-17:US:treasury yield surge real estate valuation",
     "2026-10-18:US:fomc policy rate and reserve management purchases",
-    "2026-10-18:US:shelter-disinflation-multifamily-noi"
+    "2026-10-18:US:shelter-disinflation-multifamily-noi",
+    "2026-10-19:US:fed reserve management liquidity equity discount rate",
+    "2026-10-19:US:shelter disinflation and multifamily rent growth"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -283,7 +285,9 @@
     "2026-10-17-fed-rate-hike-equity-multiple-compression-and-valuations",
     "2026-10-17-treasury-yield-surge-real-estate-valuation-2026-gridlock",
     "2026-10-18-fomc-policy-rate-and-reserve-management-purchases-impact",
-    "2026-10-18-shelter-disinflation-and-multifamily-noi-margin-pressures"
+    "2026-10-18-shelter-disinflation-and-multifamily-noi-margin-pressures",
+    "2026-10-19-fed-reserve-management-liquidity-and-equity-discount-rate",
+    "2026-10-19-shelter-disinflation-and-multifamily-rent-growth-in-reits"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -346,7 +350,8 @@
     "2026-10-14",
     "2026-10-15",
     "2026-10-16",
-    "2026-10-17"
+    "2026-10-17",
+    "2026-10-18"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
