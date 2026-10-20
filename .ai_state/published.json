@@ -144,7 +144,9 @@
     "2026-10-19:US:fed hike, 5% 10-year yield, equity valuations",
     "2026-10-19:US:fed reserve management liquidity equity discount rate",
     "2026-10-19:US:higher yields, housing affordability, cap rates",
-    "2026-10-19:US:shelter disinflation and multifamily rent growth"
+    "2026-10-19:US:shelter disinflation and multifamily rent growth",
+    "2026-10-20:US:business fixed investment capex",
+    "2026-10-20:US:shelter disinflation and multifamily noi compression"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -291,7 +293,9 @@
     "2026-10-19-fed-hike-dynamics-how-rates-pressure-equity-valuations",
     "2026-10-19-fed-reserve-management-liquidity-and-equity-discount-rate",
     "2026-10-19-shelter-disinflation-and-multifamily-rent-growth-in-reits",
-    "2026-10-19-why-higher-yields-and-rising-cap-rates-pressure-real-estate"
+    "2026-10-19-why-higher-yields-and-rising-cap-rates-pressure-real-estate",
+    "2026-10-20-business-fixed-investment-capex-drives-us-gdp-growth",
+    "2026-10-20-shelter-disinflation-and-multifamily-noi-compression"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -355,7 +359,8 @@
     "2026-10-15",
     "2026-10-16",
     "2026-10-17",
-    "2026-10-18"
+    "2026-10-18",
+    "2026-10-19"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
