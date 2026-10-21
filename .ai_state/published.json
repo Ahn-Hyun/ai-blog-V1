@@ -146,7 +146,9 @@
     "2026-10-19:US:higher yields, housing affordability, cap rates",
     "2026-10-19:US:shelter disinflation and multifamily rent growth",
     "2026-10-20:US:business fixed investment capex",
-    "2026-10-20:US:shelter disinflation and multifamily noi compression"
+    "2026-10-20:US:shelter disinflation and multifamily noi compression",
+    "2026-10-21:US:corporate capex rate cut repricing",
+    "2026-10-21:US:multifamily rent growth deceleration and debt cost squeeze"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -295,7 +297,9 @@
     "2026-10-19-shelter-disinflation-and-multifamily-rent-growth-in-reits",
     "2026-10-19-why-higher-yields-and-rising-cap-rates-pressure-real-estate",
     "2026-10-20-business-fixed-investment-capex-drives-us-gdp-growth",
-    "2026-10-20-shelter-disinflation-and-multifamily-noi-compression"
+    "2026-10-20-shelter-disinflation-and-multifamily-noi-compression",
+    "2026-10-21-corporate-capex-rate-cut-repricing-reshapes-equities",
+    "2026-10-21-multifamily-rent-growth-deceleration-and-debt-cost-squeeze"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -360,7 +364,8 @@
     "2026-10-16",
     "2026-10-17",
     "2026-10-18",
-    "2026-10-19"
+    "2026-10-19",
+    "2026-10-20"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
