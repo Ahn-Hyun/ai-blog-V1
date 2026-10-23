@@ -150,7 +150,9 @@
     "2026-10-21:US:corporate capex rate cut repricing",
     "2026-10-21:US:multifamily rent growth deceleration and debt cost squeeze",
     "2026-10-22:US:cre debt refinancing and mortgage lock-in",
-    "2026-10-22:US:fed policy tightening equity discount rates"
+    "2026-10-22:US:fed policy tightening equity discount rates",
+    "2026-10-23:US:equipment capex vs energy inflation divergence",
+    "2026-10-23:US:shelter disinflation and multifamily noi"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -303,7 +305,9 @@
     "2026-10-21-corporate-capex-rate-cut-repricing-reshapes-equities",
     "2026-10-21-multifamily-rent-growth-deceleration-and-debt-cost-squeeze",
     "2026-10-22-fed-policy-tightening-equity-discount-rates-and-valuations",
-    "2026-10-22-navigating-cre-debt-refinancing-and-mortgage-lock-in"
+    "2026-10-22-navigating-cre-debt-refinancing-and-mortgage-lock-in",
+    "2026-10-23-analyzing-equipment-capex-vs-energy-inflation-divergence",
+    "2026-10-23-shelter-disinflation-and-multifamily-noi-under-new-supply"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -370,7 +374,8 @@
     "2026-10-18",
     "2026-10-19",
     "2026-10-20",
-    "2026-10-21"
+    "2026-10-21",
+    "2026-10-22"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
