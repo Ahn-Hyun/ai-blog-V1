@@ -154,7 +154,9 @@
     "2026-10-23:US:equipment capex vs energy inflation divergence",
     "2026-10-23:US:shelter disinflation and multifamily noi",
     "2026-11-01:US:treasury term premium",
-    "2026-11-01:US:treasury term premium & mortgage spreads"
+    "2026-11-01:US:treasury term premium & mortgage spreads",
+    "2026-11-02:US:treasury bear-steepening & equity multiple compression",
+    "2026-11-02:US:treasury yield curve bear-steepening and cre refinancing"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -311,7 +313,9 @@
     "2026-10-23-analyzing-equipment-capex-vs-energy-inflation-divergence",
     "2026-10-23-shelter-disinflation-and-multifamily-noi-under-new-supply",
     "2026-11-01-understanding-treasury-term-premium-and-long-term-yields",
-    "2026-11-01-understanding-treasury-term-premium-mortgage-spreads"
+    "2026-11-01-understanding-treasury-term-premium-mortgage-spreads",
+    "2026-11-02-treasury-bear-steepening-equity-multiple-compression-explained",
+    "2026-11-02-treasury-yield-curve-bear-steepening-and-cre-refinancing"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -380,7 +384,8 @@
     "2026-10-20",
     "2026-10-21",
     "2026-10-22",
-    "2026-10-31"
+    "2026-10-31",
+    "2026-11-01"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
