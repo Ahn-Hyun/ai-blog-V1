@@ -155,6 +155,8 @@
     "2026-10-23:US:shelter disinflation and multifamily noi",
     "2026-11-01:US:treasury term premium",
     "2026-11-01:US:treasury term premium & mortgage spreads",
+    "2026-11-02:US:fed policy and long-rate risk",
+    "2026-11-02:US:mortgage rates and the 10-year treasury",
     "2026-11-02:US:treasury bear-steepening & equity multiple compression",
     "2026-11-02:US:treasury yield curve bear-steepening and cre refinancing"
   ],
@@ -314,8 +316,10 @@
     "2026-10-23-shelter-disinflation-and-multifamily-noi-under-new-supply",
     "2026-11-01-understanding-treasury-term-premium-and-long-term-yields",
     "2026-11-01-understanding-treasury-term-premium-mortgage-spreads",
+    "2026-11-02-fed-policy-and-long-rate-risk-corporate-yield-divergence",
     "2026-11-02-treasury-bear-steepening-equity-multiple-compression-explained",
-    "2026-11-02-treasury-yield-curve-bear-steepening-and-cre-refinancing"
+    "2026-11-02-treasury-yield-curve-bear-steepening-and-cre-refinancing",
+    "2026-11-02-understanding-mortgage-rates-and-the-10-year-treasury"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -399,6 +403,7 @@
     "2026-09-14_2026-09-20",
     "2026-09-28_2026-10-04",
     "2026-10-05_2026-10-11",
-    "2026-10-12_2026-10-18"
+    "2026-10-12_2026-10-18",
+    "2026-10-26_2026-11-01"
   ]
 }
