@@ -158,7 +158,9 @@
     "2026-11-02:US:fed policy and long-rate risk",
     "2026-11-02:US:mortgage rates and the 10-year treasury",
     "2026-11-02:US:treasury bear-steepening & equity multiple compression",
-    "2026-11-02:US:treasury yield curve bear-steepening and cre refinancing"
+    "2026-11-02:US:treasury yield curve bear-steepening and cre refinancing",
+    "2026-11-03:US:cre bank lending standards",
+    "2026-11-03:US:treasury issuance and bear steepening"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -319,7 +321,9 @@
     "2026-11-02-fed-policy-and-long-rate-risk-corporate-yield-divergence",
     "2026-11-02-treasury-bear-steepening-equity-multiple-compression-explained",
     "2026-11-02-treasury-yield-curve-bear-steepening-and-cre-refinancing",
-    "2026-11-02-understanding-mortgage-rates-and-the-10-year-treasury"
+    "2026-11-02-understanding-mortgage-rates-and-the-10-year-treasury",
+    "2026-11-03-treasury-issuance-and-bear-steepening-equities-hold-ground",
+    "2026-11-03-understanding-cre-bank-lending-standards-and-refinancing"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -389,7 +393,8 @@
     "2026-10-21",
     "2026-10-22",
     "2026-10-31",
-    "2026-11-01"
+    "2026-11-01",
+    "2026-11-02"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
