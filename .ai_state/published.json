@@ -162,7 +162,9 @@
     "2026-11-03:US:cre bank lending standards",
     "2026-11-03:US:treasury issuance and bear steepening",
     "2026-11-04:US:commercial real estate lending standards",
-    "2026-11-04:US:treasury bear steepening equity valuations"
+    "2026-11-04:US:treasury bear steepening equity valuations",
+    "2026-11-05:US:agency mbs stress test calibrations",
+    "2026-11-05:US:stress capital buffer"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -327,7 +329,9 @@
     "2026-11-03-treasury-issuance-and-bear-steepening-equities-hold-ground",
     "2026-11-03-understanding-cre-bank-lending-standards-and-refinancing",
     "2026-11-04-commercial-real-estate-lending-standards-2026-outlook",
-    "2026-11-04-how-treasury-bear-steepening-reshapes-equity-valuations"
+    "2026-11-04-how-treasury-bear-steepening-reshapes-equity-valuations",
+    "2026-11-05-agency-mbs-stress-test-calibrations-and-bank-demand",
+    "2026-11-05-how-fed-stress-capital-buffer-rules-protected-bank-capital"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -399,7 +403,8 @@
     "2026-10-31",
     "2026-11-01",
     "2026-11-02",
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
