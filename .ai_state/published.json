@@ -164,7 +164,9 @@
     "2026-11-04:US:commercial real estate lending standards",
     "2026-11-04:US:treasury bear steepening equity valuations",
     "2026-11-05:US:agency mbs stress test calibrations",
-    "2026-11-05:US:stress capital buffer"
+    "2026-11-05:US:stress capital buffer",
+    "2026-11-06:US:agency mbs stress test shock",
+    "2026-11-06:US:stress capital buffer agency mbs shock relief"
   ],
   "slugs": [
     "2026-04-21-2026-mbs-stress-test-fed-capital-rules-and-mortgage-rates",
@@ -331,7 +333,9 @@
     "2026-11-04-commercial-real-estate-lending-standards-2026-outlook",
     "2026-11-04-how-treasury-bear-steepening-reshapes-equity-valuations",
     "2026-11-05-agency-mbs-stress-test-calibrations-and-bank-demand",
-    "2026-11-05-how-fed-stress-capital-buffer-rules-protected-bank-capital"
+    "2026-11-05-how-fed-stress-capital-buffer-rules-protected-bank-capital",
+    "2026-11-06-agency-mbs-stress-test-shock-evaluating-capital-relief",
+    "2026-11-06-fed-stress-capital-buffer-agency-mbs-shock-relief-explained"
   ],
   "daily_impact_runs": [
     "2026-04-20",
@@ -404,7 +408,8 @@
     "2026-11-01",
     "2026-11-02",
     "2026-11-03",
-    "2026-11-04"
+    "2026-11-04",
+    "2026-11-05"
   ],
   "weekly_major_runs": [
     "2026-04-14_2026-04-20",
